@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795453525,
- "generated_iso": "2026-11-24T01:05:25+08:00",
+ "generated_at": 1795455331,
+ "generated_iso": "2026-11-24T01:35:31+08:00",
  "demo": false,
- "count": 152,
+ "count": 153,
  "lifers": 7,
  "review_count": 52,
  "prisoners": [
@@ -565,6 +565,20 @@
    "title": "[公告] fhjqwefs 3-1 唉錯過趴替",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792917116.A.215.html",
    "aid": "M.1792917116.A.215",
+   "source": "manual"
+  },
+  {
+   "user": "potabaw",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795450112,
+   "end": 1796054912,
+   "start_iso": "2026-11-24T00:08:32+08:00",
+   "end_iso": "2026-12-01T00:08:32+08:00",
+   "reason": "2-2",
+   "title": "[公告] potabaw 2-2 高下立判 好 水桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795450112.A.C95.html",
+   "aid": "M.1795450112.A.C95",
    "source": "manual"
   },
   {
