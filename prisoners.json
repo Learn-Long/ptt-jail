@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795439116,
- "generated_iso": "2026-11-23T21:05:16+08:00",
+ "generated_at": 1795440928,
+ "generated_iso": "2026-11-23T21:35:28+08:00",
  "demo": false,
  "count": 154,
  "lifers": 7,
  "review_count": 52,
  "prisoners": [
-  {
-   "user": "smpian",
-   "days": 35,
-   "lifetime": false,
-   "start": 1792416067,
-   "end": 1795440067,
-   "start_iso": "2026-10-19T21:21:07+08:00",
-   "end_iso": "2026-11-23T21:21:07+08:00",
-   "reason": "3-1 3-2",
-   "title": "[公告] smpian 3-1 3-2",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792416067.A.51E.html",
-   "aid": "M.1792416067.A.51E",
-   "source": "manual"
-  },
   {
    "user": "carterdunk",
    "days": 28,
@@ -1408,6 +1394,20 @@
    "source": "manual"
   },
   {
+   "user": "jimlexus",
+   "days": 49,
+   "lifetime": false,
+   "start": 1795436064,
+   "end": 1799669664,
+   "start_iso": "2026-11-23T20:14:24+08:00",
+   "end_iso": "2027-01-11T20:14:24+08:00",
+   "reason": "2-2",
+   "title": "[公告] jimlexus 2-2 好了拉，下去休息",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795436064.A.F5A.html",
+   "aid": "M.1795436064.A.F5A",
+   "source": "manual"
+  },
+  {
    "user": "shotholisi",
    "days": 56,
    "lifetime": false,
@@ -2165,6 +2165,16 @@
   }
  ],
  "released": [
+  {
+   "user": "smpian",
+   "days": 35,
+   "released_at": 1795440067,
+   "released_iso": "2026-11-23T21:21:07+08:00",
+   "reason": "3-1 3-2",
+   "title": "[公告] smpian 3-1 3-2",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792416067.A.51E.html",
+   "aid": "M.1792416067.A.51E"
+  },
   {
    "user": "peter080808",
    "days": 14,
