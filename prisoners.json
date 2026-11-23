@@ -1,11 +1,11 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795455331,
- "generated_iso": "2026-11-24T01:35:31+08:00",
+ "generated_at": 1795455355,
+ "generated_iso": "2026-11-24T01:35:55+08:00",
  "demo": false,
- "count": 153,
- "lifers": 7,
- "review_count": 52,
+ "count": 158,
+ "lifers": 5,
+ "review_count": 4,
  "prisoners": [
   {
    "user": "s72005ming",
@@ -19,7 +19,7 @@
    "title": "[公告] s72005ming 2-1 神秘水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794277159.A.B2D.html",
    "aid": "M.1794277159.A.B2D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "s910211",
@@ -33,7 +33,7 @@
    "title": "[公告] s910211 2-2 壓線成功",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794921142.A.555.html",
    "aid": "M.1794921142.A.555",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "kuninaka",
@@ -47,7 +47,7 @@
    "title": "[公告] kuninaka 2-1 出來看開票剛好",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793757657.A.865.html",
    "aid": "M.1793757657.A.865",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "letmesee3085",
@@ -61,7 +61,7 @@
    "title": "[公告] letmesee3085 暫行板規 light到水桶裡",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794377493.A.D85.html",
    "aid": "M.1794377493.A.D85",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "CenaWang",
@@ -75,7 +75,7 @@
    "title": "[公告] CenaWang 暫行板規 本省雜草的票不要了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794378771.A.80F.html",
    "aid": "M.1794378771.A.80F",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "cwchang2100",
@@ -89,7 +89,7 @@
    "title": "[公告] cwchang2100 2-5-l",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795008750.A.DD1.html",
    "aid": "M.1795008750.A.DD1",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "aass5566",
@@ -103,7 +103,7 @@
    "title": "[公告] aass5566 2-5-e 一直洗進水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795050192.A.DD7.html",
    "aid": "M.1795050192.A.DD7",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "popoyellow",
@@ -117,7 +117,7 @@
    "title": "[公告] popoyellow 2-1 分類也跟著到基輔",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795050425.A.9EA.html",
    "aid": "M.1795050425.A.9EA",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "assxass",
@@ -131,7 +131,7 @@
    "title": "[公告] assxass 2-2 超棒der 還賺到7天水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795066395.A.50A.html",
    "aid": "M.1795066395.A.50A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "green0616",
@@ -145,7 +145,7 @@
    "title": "[公告] green0616 2-5-d 小水珠感謝你力挺!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795066949.A.3D0.html",
    "aid": "M.1795066949.A.3D0",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "lulu1305174",
@@ -159,7 +159,7 @@
    "title": "[公告] lulu1305174 2-5-d 水桶宮不會倒戈",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795068549.A.FAD.html",
    "aid": "M.1795068549.A.FAD",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "youjunjer",
@@ -173,7 +173,7 @@
    "title": "[公告] youjunjer 2-1 水桶裡可以打X",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795086486.A.584.html",
    "aid": "M.1795086486.A.584",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "h5t6566556",
@@ -187,7 +187,7 @@
    "title": "[公告] h5t6566556 暫行板規 PG快來看PG黑水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794489559.A.D7C.html",
    "aid": "M.1794489559.A.D7C",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "weli23119",
@@ -201,7 +201,7 @@
    "title": "[公告] weli23119 2-9 辛苦了發那麼多文!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795096968.A.1B0.html",
    "aid": "M.1795096968.A.1B0",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wer11",
@@ -215,7 +215,7 @@
    "title": "[公告] wer11 2-1 刪刪哥刪到水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793347404.A.6F0.html",
    "aid": "M.1793347404.A.6F0",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "XXXXGAY",
@@ -229,7 +229,7 @@
    "title": "[公告] XXXXGAY 2-2 2-5-d 貓貓14天",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794559132.A.479.html",
    "aid": "M.1794559132.A.479",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "G4321",
@@ -243,7 +243,7 @@
    "title": "[公告] G4321 2-1 水桶炸彈丟給你",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795165459.A.9F7.html",
    "aid": "M.1795165459.A.9F7",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Taiwanese",
@@ -257,7 +257,7 @@
    "title": "[公告] Taiwanese 2-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794583981.A.12D.html",
    "aid": "M.1794583981.A.12D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "cheer67",
@@ -271,7 +271,7 @@
    "title": "[公告] cheer67 暫行板規 嘻嘻 嘻嘻 嘻嘻",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793433776.A.64C.html",
    "aid": "M.1793433776.A.64C",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "DarkKnight",
@@ -285,7 +285,7 @@
    "title": "[公告] DarkKnight 2-2 國昌體不可取",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795250957.A.F3F.html",
    "aid": "M.1795250957.A.F3F",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "kaminari22tw",
@@ -299,7 +299,7 @@
    "title": "[公告] kaminari22tw 2-5-d 2-2 剛好開票晚!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793439606.A.F45.html",
    "aid": "M.1793439606.A.F45",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "penguin7788",
@@ -313,7 +313,7 @@
    "title": "[公告] penguin7788 2-5-l",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795267712.A.726.html",
    "aid": "M.1795267712.A.726",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "THE7088",
@@ -327,7 +327,7 @@
    "title": "[公告] THE7088 2-1 謝謝你的提醒 大家不要被詐",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795273592.A.A3F.html",
    "aid": "M.1795273592.A.A3F",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "asked",
@@ -341,7 +341,7 @@
    "title": "[公告] asked 暫行板規 你高興就好",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793460678.A.E32.html",
    "aid": "M.1793460678.A.E32",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "jackie0414",
@@ -355,7 +355,7 @@
    "title": "[公告] jackie0414 2-9 有熊粉就有X粉",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791045217.A.89A.html",
    "aid": "M.1791045217.A.89A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wirewool",
@@ -369,7 +369,7 @@
    "title": "[公告] wirewool 2-2 一看就知道隔壁來的",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795310416.A.DEE.html",
    "aid": "M.1795310416.A.DEE",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "tpkgo",
@@ -383,7 +383,7 @@
    "title": "[公告] tpkgo 暫行板規 門票-1",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794706107.A.CEC.html",
    "aid": "M.1794706107.A.CEC",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "stuartfamily",
@@ -397,7 +397,7 @@
    "title": "[公告] stuartfamily 政黑暫行板規 門票-1",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794706577.A.F77.html",
    "aid": "M.1794706577.A.F77",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "arkman",
@@ -411,7 +411,7 @@
    "title": "[公告] arkman 暫行板規 水桶吉不吉利?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794707608.A.E70.html",
    "aid": "M.1794707608.A.E70",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wishloveet",
@@ -425,7 +425,7 @@
    "title": "[公告] wishloveet 2-2 才上來下去",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795353745.A.D5D.html",
    "aid": "M.1795353745.A.D5D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "tanted",
@@ -439,7 +439,7 @@
    "title": "[公告] tanted 2-2 在八卦好好待著!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795354420.A.831.html",
    "aid": "M.1795354420.A.831",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "sz2006",
@@ -453,7 +453,7 @@
    "title": "[公告] sz2006 2-2 失去門票了!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795357215.A.ACB.html",
    "aid": "M.1795357215.A.ACB",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "zmes50811",
@@ -463,11 +463,11 @@
    "end": 1795962127,
    "start_iso": "2026-11-15T22:22:07+08:00",
    "end_iso": "2026-11-29T22:22:07+08:00",
-   "reason": "",
+   "reason": "1-6",
    "title": "[公告] ban8566 vbn45660518 1-6",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794752527.A.88F.html",
    "aid": "M.1794752527.A.88F",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "noesy1123",
@@ -481,7 +481,7 @@
    "title": "[公告] noesy1123 2-1 2-2 門票飛了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794757877.A.B49.html",
    "aid": "M.1794757877.A.B49",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "ymx3xc",
@@ -495,7 +495,7 @@
    "title": "[公告] ymx3xc 暫行板規 XDDDDDDDDDDD",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794759275.A.91E.html",
    "aid": "M.1794759275.A.91E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "nono168",
@@ -509,7 +509,7 @@
    "title": "[公告] nono168 暫行板規 嗚嗚嗚回八卦看開票",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794759595.A.973.html",
    "aid": "M.1794759595.A.973",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "seguignol",
@@ -523,7 +523,7 @@
    "title": "[公告] seguignol 2-1 絕食到底",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795400940.A.E8D.html",
    "aid": "M.1795400940.A.E8D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Tsuzichen",
@@ -537,7 +537,7 @@
    "title": "[公告] Tsuzichen 2-2 會絕食到投票日嗎?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795405029.A.166.html",
    "aid": "M.1795405029.A.166",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "invlaw",
@@ -551,7 +551,7 @@
    "title": "[公告] invlaw 2-2 搶快沒用",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794815846.A.A20.html",
    "aid": "M.1794815846.A.A20",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "fhjqwefs",
@@ -565,7 +565,7 @@
    "title": "[公告] fhjqwefs 3-1 唉錯過趴替",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792917116.A.215.html",
    "aid": "M.1792917116.A.215",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "potabaw",
@@ -579,7 +579,7 @@
    "title": "[公告] potabaw 2-2 高下立判 好 水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795450112.A.C95.html",
    "aid": "M.1795450112.A.C95",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "kissung",
@@ -593,7 +593,7 @@
    "title": "[公告] kissung 暫行板規 提早放假",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794918527.A.005.html",
    "aid": "M.1794918527.A.005",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "pippen456",
@@ -607,7 +607,7 @@
    "title": "[公告] pippen456 暫行板規 辛苦了!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794918979.A.7DC.html",
    "aid": "M.1794918979.A.7DC",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "lookforyou",
@@ -621,7 +621,7 @@
    "title": "[公告] lookforyou 暫行板規 很重要講三次",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794919637.A.B4E.html",
    "aid": "M.1794919637.A.B4E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "cheninher",
@@ -635,7 +635,7 @@
    "title": "[公告] cheninher 2-2 選後才能相見了 嗚嗚嗚",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794320573.A.DDA.html",
    "aid": "M.1794320573.A.DDA",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "HappyKH",
@@ -649,7 +649,7 @@
    "title": "[公告] HappyKH 3-1 出來票都開完了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793155787.A.7D6.html",
    "aid": "M.1793155787.A.7D6",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "dyanhansye",
@@ -663,7 +663,7 @@
    "title": "[公告] dyanhansye 暫行板規 5組 選後見",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791044537.A.9C8.html",
    "aid": "M.1791044537.A.9C8",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "UOIJK",
@@ -677,7 +677,7 @@
    "title": "[公告] UOIJK 暫行板規 等選後歡迎再來",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793843733.A.409.html",
    "aid": "M.1793843733.A.409",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "cystal",
@@ -691,7 +691,7 @@
    "title": "[公告] cystal 暫行板規 討厭台灣 可以移民中國",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795059240.A.AE6.html",
    "aid": "M.1795059240.A.AE6",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "mancuteboy",
@@ -705,7 +705,7 @@
    "title": "[公告] mancuteboy 2-2 躺到進水桶也是贏",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795064518.A.94D.html",
    "aid": "M.1795064518.A.94D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "icrose",
@@ -719,7 +719,7 @@
    "title": "[公告] icrose 2-9",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794483687.A.AD6.html",
    "aid": "M.1794483687.A.AD6",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "js1986",
@@ -733,7 +733,7 @@
    "title": "[公告] js1986 2-1 2-2 被水桶捅了一刀",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795141351.A.0B8.html",
    "aid": "M.1795141351.A.0B8",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "sackingsss",
@@ -747,7 +747,7 @@
    "title": "[公告] sackingsss 暫行板規 嗚嗚被水桶教訓",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795141587.A.D57.html",
    "aid": "M.1795141587.A.D57",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "KaedeRed",
@@ -761,7 +761,7 @@
    "title": "[公告] KaedeRed 暫行板規 貼圖正確洗圖不正確",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795142026.A.A06.html",
    "aid": "M.1795142026.A.A06",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "tinmar",
@@ -775,7 +775,7 @@
    "title": "[公告] tinmar 暫行板規 龍山寺是國定古蹟",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795142227.A.2EE.html",
    "aid": "M.1795142227.A.2EE",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "zakijudelo",
@@ -789,7 +789,7 @@
    "title": "[公告] zakijudelo 暫行板規 跌跌跌到水桶裡",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795157009.A.FD1.html",
    "aid": "M.1795157009.A.FD1",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "homeaki",
@@ -803,7 +803,7 @@
    "title": "[公告] homeaki 暫行板規 普發兩萬=舉債風險",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795181395.A.898.html",
    "aid": "M.1795181395.A.898",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "toto123",
@@ -817,7 +817,7 @@
    "title": "[公告] toto123 2-9 10篇的代價就是不能開趴",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793430456.A.2A3.html",
    "aid": "M.1793430456.A.2A3",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "DJSHD2",
@@ -831,7 +831,7 @@
    "title": "[公告] DJSHD2 2-5-b 嗨過頭嗎?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795355637.A.4B3.html",
    "aid": "M.1795355637.A.4B3",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "LLSe01",
@@ -841,11 +841,11 @@
    "end": 1796565672,
    "start_iso": "2026-11-22T22:01:12+08:00",
    "end_iso": "2026-12-06T22:01:12+08:00",
-   "reason": "2-1 2-5-i",
+   "reason": "2-1,2-5-i",
    "title": "[公告] LLSe01 2-1 2-5-i",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795356072.A.7D6.html",
    "aid": "M.1795356072.A.7D6",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "a2379928",
@@ -859,7 +859,7 @@
    "title": "[公告] a2379928 2-1 提早下課!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795356373.A.99D.html",
    "aid": "M.1795356373.A.99D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "MrTaxes",
@@ -873,7 +873,7 @@
    "title": "[公告] MrTaxes 2-5-d 要幾篇一起發?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795396487.A.00D.html",
    "aid": "M.1795396487.A.00D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "capser",
@@ -887,7 +887,7 @@
    "title": "[公告] capser 暫行板規 1128 1128 1128",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795397139.A.9E8.html",
    "aid": "M.1795397139.A.9E8",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "kcboy123",
@@ -901,7 +901,7 @@
    "title": "[公告] kcboy123 暫行板規 ●戒慎恐懼●",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794187962.A.585.html",
    "aid": "M.1794187962.A.585",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "stevencool",
@@ -915,7 +915,7 @@
    "title": "[公告] stevencool 2-2 選後再來對答案了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794194339.A.506.html",
    "aid": "M.1794194339.A.506",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "xulzj524",
@@ -929,7 +929,7 @@
    "title": "[公告] xulzj524 暫行板規 等開票完再回來這笑死",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794229448.A.895.html",
    "aid": "M.1794229448.A.895",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wamng",
@@ -943,7 +943,7 @@
    "title": "[公告] wamng 2-2 水桶崩潰阿",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795447180.A.CE2.html",
    "aid": "M.1795447180.A.CE2",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "janhon",
@@ -957,7 +957,7 @@
    "title": "[公告] janhon 2-5-b 2-9 2項都超貼也是厲害",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793671679.A.073.html",
    "aid": "M.1793671679.A.073",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "SAMON5566",
@@ -971,7 +971,7 @@
    "title": "[公告] SAMON5566 暫行板規 慘，錯過party",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1790648143.A.E6E.html",
    "aid": "M.1790648143.A.E6E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "TWTP2018",
@@ -985,7 +985,7 @@
    "title": "[公告] TWTP2018 3-1 我吃火鍋加芋頭的",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793761454.A.0BB.html",
    "aid": "M.1793761454.A.0BB",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "linx210145",
@@ -999,7 +999,7 @@
    "title": "[公告] linx210145 2-2 2篇 笑你被水桶 選後見",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794409143.A.647.html",
    "aid": "M.1794409143.A.647",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "venson",
@@ -1013,7 +1013,7 @@
    "title": "[公告] venson 2-5-c 下去找連結21天",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795144771.A.52B.html",
    "aid": "M.1795144771.A.52B",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "gn7722",
@@ -1027,7 +1027,7 @@
    "title": "[公告] gn7722 2-5-d 哇靠!!開趴門票掉了!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794648696.A.103.html",
    "aid": "M.1794648696.A.103",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "rodion",
@@ -1041,7 +1041,7 @@
    "title": "[公告] rodion 3-1 小組裁定。",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794057607.A.7C7.html",
    "aid": "M.1794057607.A.7C7",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "GY999",
@@ -1051,11 +1051,11 @@
    "end": 1797177141,
    "start_iso": "2026-10-18T23:52:21+08:00",
    "end_iso": "2026-12-13T23:52:21+08:00",
-   "reason": "",
+   "reason": "1",
    "title": "[公告] GY999 暫行板規 4組 被美鳳水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792338741.A.230.html",
    "aid": "M.1792338741.A.230",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "ban8566",
@@ -1069,7 +1069,7 @@
    "title": "[公告] vbn45660518 sp17555 ban8566 1-6",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794838614.A.DE9.html",
    "aid": "M.1794838614.A.DE9",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "vbn45660518",
@@ -1079,11 +1079,11 @@
    "end": 1797257814,
    "start_iso": "2026-11-16T22:16:54+08:00",
    "end_iso": "2026-12-14T22:16:54+08:00",
-   "reason": "",
+   "reason": "1-6",
    "title": "[公告] vbn45660518 sp17555 ban8566 1-6",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794838614.A.DE9.html",
    "aid": "M.1794838614.A.DE9",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "sp17555",
@@ -1093,11 +1093,11 @@
    "end": 1797257814,
    "start_iso": "2026-11-16T22:16:54+08:00",
    "end_iso": "2026-12-14T22:16:54+08:00",
-   "reason": "",
+   "reason": "1-6",
    "title": "[公告] vbn45660518 sp17555 ban8566 1-6",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794838614.A.DE9.html",
    "aid": "M.1794838614.A.DE9",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "lookers",
@@ -1111,7 +1111,7 @@
    "title": "[公告] lookers 暫行板規 2組 完了不能開趴",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794918330.A.97E.html",
    "aid": "M.1794918330.A.97E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Behind4",
@@ -1125,7 +1125,7 @@
    "title": "[公告] Behind4 4-4   嘴砲也該有個限度",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1789634251.A.FE2.html",
    "aid": "M.1789634251.A.FE2",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "teeo",
@@ -1139,7 +1139,7 @@
    "title": "[公告] teeo 2-5-e 嗚嗚，門票飛了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795012495.A.106.html",
    "aid": "M.1795012495.A.106",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "aponla",
@@ -1153,7 +1153,7 @@
    "title": "[公告] aponla 暫行板規 水桶要不要反對",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795058956.A.29B.html",
    "aid": "M.1795058956.A.29B",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "kaishaochen",
@@ -1167,7 +1167,7 @@
    "title": "[公告] kaishaochen 3-1 3-2 不要亂罵人",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794463423.A.E15.html",
    "aid": "M.1794463423.A.E15",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "a221877890",
@@ -1181,7 +1181,7 @@
    "title": "[公告] a221877890 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794466852.A.0D7.html",
    "aid": "M.1794466852.A.0D7",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "piggybill",
@@ -1195,7 +1195,7 @@
    "title": "[公告] piggybill 2-5-d 掰掰!!!選後見!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794528173.A.31E.html",
    "aid": "M.1794528173.A.31E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Taiwan007",
@@ -1205,11 +1205,11 @@
    "end": 1797738507,
    "start_iso": "2026-11-08T11:48:27+08:00",
    "end_iso": "2026-12-20T11:48:27+08:00",
-   "reason": "2-2 2-5-d",
+   "reason": "2-2",
    "title": "[公告] Taiwan007 2-2 2-5-d 安心放假 選後見",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794109707.A.257.html",
    "aid": "M.1794109707.A.257",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "iLeyaSin365",
@@ -1223,7 +1223,7 @@
    "title": "[公告] iLeyaSin365 2-9 慘，沒地方去了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795355278.A.161.html",
    "aid": "M.1795355278.A.161",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "show9202",
@@ -1237,7 +1237,7 @@
    "title": "[公告] show9202 暫行板規 3組 選完再回來洗了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794184068.A.D13.html",
    "aid": "M.1794184068.A.D13",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "bart9425",
@@ -1251,7 +1251,7 @@
    "title": "[公告] bart9425 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794927399.A.CFC.html",
    "aid": "M.1794927399.A.CFC",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "ga023630",
@@ -1265,7 +1265,7 @@
    "title": "[公告] ga023630 多篇 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791940172.A.EA7.html",
    "aid": "M.1791940172.A.EA7",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "charles0939",
@@ -1279,7 +1279,7 @@
    "title": "[公告] charles0939 2-9 倒在最後一刻",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795157892.A.7BC.html",
    "aid": "M.1795157892.A.7BC",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "jacky844a",
@@ -1289,11 +1289,11 @@
    "end": 1798208117,
    "start_iso": "2026-11-20T22:15:17+08:00",
    "end_iso": "2026-12-25T22:15:17+08:00",
-   "reason": "3-1 3-2",
+   "reason": "3-1,3-2",
    "title": "[公告]jacky844a 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795184117.A.CBB.html",
    "aid": "M.1795184117.A.CBB",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "jiaweikoo",
@@ -1303,11 +1303,11 @@
    "end": 1798291875,
    "start_iso": "2026-11-21T21:31:15+08:00",
    "end_iso": "2026-12-26T21:31:15+08:00",
-   "reason": "3-1 3-2",
+   "reason": "3-1,3-2",
    "title": "[公告] jiaweikoo 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795267875.A.73B.html",
    "aid": "M.1795267875.A.73B",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "beoneg",
@@ -1321,7 +1321,7 @@
    "title": "[公告] beoneg 暫行板規 棒流來襲",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795058598.A.1C7.html",
    "aid": "M.1795058598.A.1C7",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Metuzi",
@@ -1331,25 +1331,11 @@
    "end": 1798799622,
    "start_iso": "2026-10-23T18:33:42+08:00",
    "end_iso": "2027-01-01T18:33:42+08:00",
-   "reason": "3-1 3-2",
+   "reason": "3-1",
    "title": "[公告] Metuzi 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792751622.A.8B1.html",
    "aid": "M.1792751622.A.8B1",
-   "source": "manual"
-  },
-  {
-   "user": "IBIZA",
-   "days": 105,
-   "lifetime": false,
-   "start": 1789955453,
-   "end": 1799027453,
-   "start_iso": "2026-09-21T09:50:53+08:00",
-   "end_iso": "2027-01-04T09:50:53+08:00",
-   "reason": "3-1 3-2",
-   "title": "[公告] IBIZA 3-1 3-2",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1789955453.A.FA3.html",
-   "aid": "M.1789955453.A.FA3",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Madridtop",
@@ -1363,7 +1349,7 @@
    "title": "[公告] Madridtop 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793371801.A.4C0.html",
    "aid": "M.1793371801.A.4C0",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "tannoy",
@@ -1377,7 +1363,7 @@
    "title": "[公告] tannoy 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793451812.A.B22.html",
    "aid": "M.1793451812.A.B22",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "jimlexus",
@@ -1391,7 +1377,7 @@
    "title": "[公告] jimlexus 2-2 好了拉，下去休息",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795436064.A.F5A.html",
    "aid": "M.1795436064.A.F5A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "shotholisi",
@@ -1405,7 +1391,7 @@
    "title": "[公告] shotholisi 暫行板規 4組 再強調\"水桶\"",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795273374.A.B3A.html",
    "aid": "M.1795273374.A.B3A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "mintex",
@@ -1419,7 +1405,7 @@
    "title": "[公告] mintex 暫行板規 2組 放長假了!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795356957.A.861.html",
    "aid": "M.1795356957.A.861",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "kymco9999",
@@ -1433,7 +1419,7 @@
    "title": "[公告] kymco9999 4-4 PO個資高額水桶啊!!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792561336.A.B47.html",
    "aid": "M.1792561336.A.B47",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "haroldliu",
@@ -1447,7 +1433,7 @@
    "title": "[公告] haroldliu 暫行板規 4組 ...............",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794705989.A.1A4.html",
    "aid": "M.1794705989.A.1A4",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "a111111",
@@ -1461,7 +1447,7 @@
    "title": "[公告] a111111 3-1 3-2 我的天啊！",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791815338.A.627.html",
    "aid": "M.1791815338.A.627",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "rayonwu",
@@ -1475,7 +1461,7 @@
    "title": "[公告] rayonwu 暫行板規 你到底要高調幾次?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795141781.A.9FD.html",
    "aid": "M.1795141781.A.9FD",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "QQMMWA",
@@ -1485,7 +1471,7 @@
    "end": 1801384535,
    "start_iso": "2023-12-03T16:35:35+08:00",
    "end_iso": "2027-01-31T16:35:35+08:00",
-   "reason": "",
+   "reason": "暫行板規 共33組 X35=1155",
    "title": "[公告] QQMMWA 暫行",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1701592535.A.034.html",
    "aid": "M.1701592535.A.034",
@@ -1503,7 +1489,7 @@
    "title": "[公告] vermilionred 4-7 延長水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1753680725.A.D11.html",
    "aid": "M.1753680725.A.D11",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "win8719",
@@ -1517,7 +1503,7 @@
    "title": "[公告] win8719 暫行板規",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1787105378.A.541.html",
    "aid": "M.1787105378.A.541",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wang460313",
@@ -1527,25 +1513,25 @@
    "end": 1801662230,
    "start_iso": "2026-11-11T21:43:50+08:00",
    "end_iso": "2027-02-03T21:43:50+08:00",
-   "reason": "",
+   "reason": "6-2",
    "title": "[公告] wang460313 暫行板規 6組 誰家的請帶回",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794404630.A.54E.html",
    "aid": "M.1794404630.A.54E",
-   "source": "manual"
+   "source": "llm"
   },
   {
-   "user": "nooooon",
-   "days": 240,
+   "user": "IBIZA",
+   "days": 144,
    "lifetime": false,
-   "start": 1785217518,
-   "end": 1805953518,
-   "start_iso": "2026-07-28T13:45:18+08:00",
-   "end_iso": "2027-03-25T13:45:18+08:00",
-   "reason": "",
-   "title": "[公告] nooooon 暫行板規",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1785217518.A.BCE.html",
-   "aid": "M.1785217518.A.BCE",
-   "source": "manual"
+   "start": 1789955453,
+   "end": 1802397053,
+   "start_iso": "2026-09-21T09:50:53+08:00",
+   "end_iso": "2027-02-12T09:50:53+08:00",
+   "reason": "3-1 3-2",
+   "title": "[公告] IBIZA 3-1 3-2",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1789955453.A.FA3.html",
+   "aid": "M.1789955453.A.FA3",
+   "source": "llm"
   },
   {
    "user": "glo6e",
@@ -1555,7 +1541,7 @@
    "end": 1815120203,
    "start_iso": "2023-12-22T16:03:23+08:00",
    "end_iso": "2027-07-09T16:03:23+08:00",
-   "reason": "",
+   "reason": "37組 暫行板規1",
    "title": "[公告] 好不好行個好 別到我夢裡 glo6e暫行",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1703232203.A.9C9.html",
    "aid": "M.1703232203.A.9C9",
@@ -1569,7 +1555,7 @@
    "end": 1833989507,
    "start_iso": "2023-12-31T01:31:47+08:00",
    "end_iso": "2028-02-13T01:31:47+08:00",
-   "reason": "",
+   "reason": "43組 暫行 X 35 = 1505",
    "title": "[公告] 最親愛的煙火  再見了 jjsam 暫行",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1703957507.A.419.html",
    "aid": "M.1703957507.A.419",
@@ -1583,11 +1569,11 @@
    "end": 1834621868,
    "start_iso": "2026-05-22T09:11:08+08:00",
    "end_iso": "2028-02-20T09:11:08+08:00",
-   "reason": "1-6",
+   "reason": "6",
    "title": "[公告] area41gold area51gold 1-6 分身像誰?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1779412268.A.3F9.html",
    "aid": "M.1779412268.A.3F9",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "area41gold",
@@ -1597,11 +1583,11 @@
    "end": 1834621868,
    "start_iso": "2026-05-22T09:11:08+08:00",
    "end_iso": "2028-02-20T09:11:08+08:00",
-   "reason": "",
+   "reason": "6",
    "title": "[公告] area41gold area51gold 1-6 分身像誰?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1779412268.A.3F9.html",
    "aid": "M.1779412268.A.3F9",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "GoOdGaMe",
@@ -1611,11 +1597,67 @@
    "end": 1860395014,
    "start_iso": "2019-10-03T16:23:34+08:00",
    "end_iso": "2028-12-14T16:23:34+08:00",
-   "reason": "",
+   "reason": "1-6",
    "title": "[公告] GoOdGaMe sodabing 1-6",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1570091014.A.3B3.html",
    "aid": "M.1570091014.A.3B3",
-   "source": "manual"
+   "source": "llm"
+  },
+  {
+   "user": "sodabing",
+   "days": 3360,
+   "lifetime": false,
+   "start": 1570091014,
+   "end": 1860395014,
+   "start_iso": "2019-10-03T16:23:34+08:00",
+   "end_iso": "2028-12-14T16:23:34+08:00",
+   "reason": "1-6",
+   "title": "[公告] GoOdGaMe sodabing 1-6",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1570091014.A.3B3.html",
+   "aid": "M.1570091014.A.3B3",
+   "source": "llm"
+  },
+  {
+   "user": "flyer1998",
+   "days": 3650,
+   "lifetime": false,
+   "start": 1547227418,
+   "end": 1862587418,
+   "start_iso": "2019-01-12T01:23:38+08:00",
+   "end_iso": "2029-01-09T01:23:38+08:00",
+   "reason": "2-2",
+   "title": "[公告] 水桶：多篇文章不足40字 flyer1998",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1547227418.A.BA4.html",
+   "aid": "M.1547227418.A.BA4",
+   "source": "llm"
+  },
+  {
+   "user": "kobest",
+   "days": 3650,
+   "lifetime": false,
+   "start": 1549716816,
+   "end": 1865076816,
+   "start_iso": "2019-02-09T20:53:36+08:00",
+   "end_iso": "2029-02-06T20:53:36+08:00",
+   "reason": "2-2",
+   "title": "[公告] 水桶：多篇文章不足40字 kobest",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1549716816.A.961.html",
+   "aid": "M.1549716816.A.961",
+   "source": "llm"
+  },
+  {
+   "user": "pchunters123",
+   "days": 3650,
+   "lifetime": false,
+   "start": 1551338750,
+   "end": 1866698750,
+   "start_iso": "2019-02-28T15:25:50+08:00",
+   "end_iso": "2029-02-25T15:25:50+08:00",
+   "reason": "2-2",
+   "title": "[公告] 水桶：多篇文章不足40字 pchunters123",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1551338750.A.6BE.html",
+   "aid": "M.1551338750.A.6BE",
+   "source": "llm"
   },
   {
    "user": "iphonexx",
@@ -1629,7 +1671,7 @@
    "title": "[公告] iphonexx 1-5 1-6 水桶10年",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1586165181.A.E9E.html",
    "aid": "M.1586165181.A.E9E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "ivq87541",
@@ -1639,7 +1681,7 @@
    "end": 1902297051,
    "start_iso": "2024-04-30T15:50:51+08:00",
    "end_iso": "2030-04-13T15:50:51+08:00",
-   "reason": "",
+   "reason": "1-6",
    "title": "[公告]ad790522 分身st920069 jack8128 ivq87541",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1714463451.A.A05.html",
    "aid": "M.1714463451.A.A05",
@@ -1653,7 +1695,7 @@
    "end": 1902297051,
    "start_iso": "2024-04-30T15:50:51+08:00",
    "end_iso": "2030-04-13T15:50:51+08:00",
-   "reason": "",
+   "reason": "1-6",
    "title": "[公告]ad790522 分身st920069 jack8128 ivq87541",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1714463451.A.A05.html",
    "aid": "M.1714463451.A.A05",
@@ -1667,7 +1709,7 @@
    "end": 1902297051,
    "start_iso": "2024-04-30T15:50:51+08:00",
    "end_iso": "2030-04-13T15:50:51+08:00",
-   "reason": "",
+   "reason": "1-6 分身",
    "title": "[公告]ad790522 分身st920069 jack8128 ivq87541",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1714463451.A.A05.html",
    "aid": "M.1714463451.A.A05",
@@ -1681,7 +1723,7 @@
    "end": 1902297051,
    "start_iso": "2024-04-30T15:50:51+08:00",
    "end_iso": "2030-04-13T15:50:51+08:00",
-   "reason": "",
+   "reason": "1-6 st920069 jack8128 ivq87541",
    "title": "[公告]ad790522 分身st920069 jack8128 ivq87541",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1714463451.A.A05.html",
    "aid": "M.1714463451.A.A05",
@@ -1699,7 +1741,7 @@
    "title": "[公告] qaz85016123 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782362453.A.C7E.html",
    "aid": "M.1782362453.A.C7E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "findzxddd",
@@ -1713,7 +1755,7 @@
    "title": "[公告] findzxddd 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782367911.A.95B.html",
    "aid": "M.1782367911.A.95B",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wetion",
@@ -1727,7 +1769,7 @@
    "title": "[公告] wetion 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782375479.A.097.html",
    "aid": "M.1782375479.A.097",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "leenhoo",
@@ -1741,7 +1783,7 @@
    "title": "[公告] leenhoo 4-3 情色廣告3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782381330.A.AD1.html",
    "aid": "M.1782381330.A.AD1",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "roxion",
@@ -1755,7 +1797,7 @@
    "title": "[公告] roxion 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782393819.A.4CD.html",
    "aid": "M.1782393819.A.4CD",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "jack155092",
@@ -1769,7 +1811,7 @@
    "title": "[公告] jack155092 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782458335.A.6D5.html",
    "aid": "M.1782458335.A.6D5",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "charl355174",
@@ -1783,7 +1825,7 @@
    "title": "[公告] charl355174 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782460743.A.9DB.html",
    "aid": "M.1782460743.A.9DB",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "honnycki",
@@ -1797,7 +1839,7 @@
    "title": "[公告] honnycki 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782465287.A.A97.html",
    "aid": "M.1782465287.A.A97",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "jeff2003012",
@@ -1811,7 +1853,7 @@
    "title": "[公告] jeff2003012 4-3  情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1783326964.A.DBE.html",
    "aid": "M.1783326964.A.DBE",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "sam5150303",
@@ -1825,7 +1867,7 @@
    "title": "[公告] sam5150303 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1783568499.A.EE2.html",
    "aid": "M.1783568499.A.EE2",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "cheeeer",
@@ -1839,7 +1881,7 @@
    "title": "[公告] cheeeer 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1784349188.A.504.html",
    "aid": "M.1784349188.A.504",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "nate29",
@@ -1853,7 +1895,7 @@
    "title": "[公告] nate29 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1784349338.A.6C8.html",
    "aid": "M.1784349338.A.6C8",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "yschen1025",
@@ -1867,7 +1909,7 @@
    "title": "[公告] yschen1025 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1784349503.A.07A.html",
    "aid": "M.1784349503.A.07A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "wooksung",
@@ -1881,7 +1923,7 @@
    "title": "[公告] wooksung 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1784349674.A.0D9.html",
    "aid": "M.1784349674.A.0D9",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "aa78509",
@@ -1895,7 +1937,7 @@
    "title": "[公告] aa78509 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1785478565.A.04A.html",
    "aid": "M.1785478565.A.04A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "chiamay",
@@ -1909,7 +1951,7 @@
    "title": "[公告] chiamay 4-3",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1785588979.A.EB1.html",
    "aid": "M.1785588979.A.EB1",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "motiduki",
@@ -1923,7 +1965,7 @@
    "title": "[公告] motiduki 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1786250548.A.0B5.html",
    "aid": "M.1786250548.A.0B5",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "pupil29",
@@ -1937,7 +1979,7 @@
    "title": "[公告] pupil29 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1786263631.A.282.html",
    "aid": "M.1786263631.A.282",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "mushroomya",
@@ -1951,7 +1993,7 @@
    "title": "[公告] mushroomya 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1786601054.A.14A.html",
    "aid": "M.1786601054.A.14A",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "e80222",
@@ -1965,7 +2007,7 @@
    "title": "[公告] e80222 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1786606152.A.CB6.html",
    "aid": "M.1786606152.A.CB6",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "qq091219118",
@@ -1979,7 +2021,7 @@
    "title": "[公告] qq091219118 4-3 情色廣告水桶3650",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1786612298.A.7C6.html",
    "aid": "M.1786612298.A.7C6",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Misscat16868",
@@ -1989,7 +2031,7 @@
    "end": 2140705363,
    "start_iso": "2023-06-19T00:22:43+08:00",
    "end_iso": "2037-11-02T00:22:43+08:00",
-   "reason": "4-7",
+   "reason": "4-7 X 375",
    "title": "[公告] 花蕊重開 更加美麗 Misscat16868 4-7",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1687105363.A.EBC.html",
    "aid": "M.1687105363.A.EBC",
@@ -1997,45 +2039,101 @@
   },
   {
    "user": "axenos",
-   "days": 8973,
+   "days": 5262,
    "lifetime": false,
    "start": 1692788223,
-   "end": 2468055423,
+   "end": 2147425023,
    "start_iso": "2023-08-23T18:57:03+08:00",
-   "end_iso": "2048-03-17T18:57:03+08:00",
-   "reason": "",
+   "end_iso": "2038-01-18T18:57:03+08:00",
+   "reason": "6",
    "title": "[公告] unipatriot/axenos/hsuyihsiang 厲害了你",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1692788223.A.86D.html",
    "aid": "M.1692788223.A.86D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "unipatriot",
-   "days": 8973,
+   "days": 5262,
    "lifetime": false,
    "start": 1692788223,
-   "end": 2468055423,
+   "end": 2147425023,
    "start_iso": "2023-08-23T18:57:03+08:00",
-   "end_iso": "2048-03-17T18:57:03+08:00",
-   "reason": "",
+   "end_iso": "2038-01-18T18:57:03+08:00",
+   "reason": "6",
    "title": "[公告] unipatriot/axenos/hsuyihsiang 厲害了你",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1692788223.A.86D.html",
    "aid": "M.1692788223.A.86D",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "hsuyihsiang",
-   "days": 8973,
+   "days": 5262,
    "lifetime": false,
    "start": 1692788223,
-   "end": 2468055423,
+   "end": 2147425023,
    "start_iso": "2023-08-23T18:57:03+08:00",
-   "end_iso": "2048-03-17T18:57:03+08:00",
-   "reason": "",
+   "end_iso": "2038-01-18T18:57:03+08:00",
+   "reason": "6",
    "title": "[公告] unipatriot/axenos/hsuyihsiang 厲害了你",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1692788223.A.86D.html",
    "aid": "M.1692788223.A.86D",
-   "source": "manual"
+   "source": "llm"
+  },
+  {
+   "user": "valender",
+   "days": 7200,
+   "lifetime": false,
+   "start": 1568634688,
+   "end": 2190714688,
+   "start_iso": "2019-09-16T19:51:28+08:00",
+   "end_iso": "2039-06-03T19:51:28+08:00",
+   "reason": "1-6",
+   "title": "[公告] Bartholemew valender 水桶20年 板規1-6",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1568634688.A.291.html",
+   "aid": "M.1568634688.A.291",
+   "source": "llm"
+  },
+  {
+   "user": "Bartholemew",
+   "days": 7200,
+   "lifetime": false,
+   "start": 1568634688,
+   "end": 2190714688,
+   "start_iso": "2019-09-16T19:51:28+08:00",
+   "end_iso": "2039-06-03T19:51:28+08:00",
+   "reason": "1-6",
+   "title": "[公告] Bartholemew valender 水桶20年 板規1-6",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1568634688.A.291.html",
+   "aid": "M.1568634688.A.291",
+   "source": "llm"
+  },
+  {
+   "user": "deb86862000",
+   "days": 25550,
+   "lifetime": false,
+   "start": 1787019146,
+   "end": 3994539146,
+   "start_iso": "2026-08-18T10:12:26+08:00",
+   "end_iso": "2096-07-31T10:12:26+08:00",
+   "reason": "4-3",
+   "title": "[公告] deb86862000 4-3 情色廣告永桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1787019146.A.0D4.html",
+   "aid": "M.1787019146.A.0D4",
+   "source": "llm"
+  },
+  {
+   "user": "eva421520",
+   "days": 25550,
+   "lifetime": false,
+   "start": 1789020592,
+   "end": 3996540592,
+   "start_iso": "2026-09-10T14:09:52+08:00",
+   "end_iso": "2096-08-23T14:09:52+08:00",
+   "reason": "4-3",
+   "title": "[公告] eva421520 4-3 情色廣告永桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1789020592.A.758.html",
+   "aid": "M.1789020592.A.758",
+   "source": "llm"
   },
   {
    "user": "jjoonnyy",
@@ -2045,11 +2143,11 @@
    "end": 6848894589,
    "start_iso": "2021-01-12T22:43:09+08:00",
    "end_iso": "2187-01-12T22:43:09+08:00",
-   "reason": "",
+   "reason": "2-1",
    "title": "[公告] 禁言(jjoonnyy)",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1610462589.A.47F.html",
    "aid": "M.1610462589.A.47F",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "ilanese",
@@ -2063,7 +2161,7 @@
    "title": "[公告] ilanese 永久水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1578900907.A.559.html",
    "aid": "M.1578900907.A.559",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "Icefight",
@@ -2077,7 +2175,7 @@
    "title": "[公告] Icefight 暫時永桶 盜帳相關",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1682954079.A.E31.html",
    "aid": "M.1682954079.A.E31",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "rocintw",
@@ -2091,35 +2189,7 @@
    "title": "[公告] rocintw 暫時永桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1682433206.A.E4D.html",
    "aid": "M.1682433206.A.E4D",
-   "source": "manual"
-  },
-  {
-   "user": "deb86862000",
-   "days": null,
-   "lifetime": true,
-   "start": 1787019146,
-   "end": null,
-   "start_iso": "2026-08-18T10:12:26+08:00",
-   "end_iso": null,
-   "reason": "4-3",
-   "title": "[公告] deb86862000 4-3 情色廣告永桶",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1787019146.A.0D4.html",
-   "aid": "M.1787019146.A.0D4",
-   "source": "manual"
-  },
-  {
-   "user": "eva421520",
-   "days": null,
-   "lifetime": true,
-   "start": 1789020592,
-   "end": null,
-   "start_iso": "2026-09-10T14:09:52+08:00",
-   "end_iso": null,
-   "reason": "4-3",
-   "title": "[公告] eva421520 4-3 情色廣告永桶",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1789020592.A.758.html",
-   "aid": "M.1789020592.A.758",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "aabb3221",
@@ -2133,7 +2203,7 @@
    "title": "[公告] aabb3221 4-3 情色廣告",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791986655.A.C7E.html",
    "aid": "M.1791986655.A.C7E",
-   "source": "manual"
+   "source": "llm"
   },
   {
    "user": "f011222",
@@ -2147,7 +2217,7 @@
    "title": "[公告] f011222 4-3 情色廣告 永桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792158400.A.9C2.html",
    "aid": "M.1792158400.A.9C2",
-   "source": "manual"
+   "source": "llm"
   }
  ],
  "released": [
@@ -2186,7 +2256,7 @@
    "days": 35,
    "released_at": 1795440067,
    "released_iso": "2026-11-23T21:21:07+08:00",
-   "reason": "3-1 3-2",
+   "reason": "3-1",
    "title": "[公告] smpian 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792416067.A.51E.html",
    "aid": "M.1792416067.A.51E"
@@ -2276,7 +2346,7 @@
    "days": 35,
    "released_at": 1795362479,
    "released_iso": "2026-11-22T23:47:59+08:00",
-   "reason": "3-1 3-2",
+   "reason": "3-1",
    "title": "[公告] Scion 3-1 3-2 還能開趴",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792338479.A.C72.html",
    "aid": "M.1792338479.A.C72"
@@ -2336,7 +2406,7 @@
    "days": 21,
    "released_at": 1795242579,
    "released_iso": "2026-11-21T14:29:39+08:00",
-   "reason": "2-2",
+   "reason": "2-1 2-2",
    "title": "[公告] linrebecca 多篇2-1 2-2 3違規 哪家的?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793428179.A.6E6.html",
    "aid": "M.1793428179.A.6E6"
