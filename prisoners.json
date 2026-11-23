@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795442723,
- "generated_iso": "2026-11-23T22:05:23+08:00",
+ "generated_at": 1795444514,
+ "generated_iso": "2026-11-23T22:35:14+08:00",
  "demo": false,
- "count": 154,
+ "count": 153,
  "lifers": 7,
  "review_count": 52,
  "prisoners": [
-  {
-   "user": "carterdunk",
-   "days": 28,
-   "lifetime": false,
-   "start": 1793023986,
-   "end": 1795443186,
-   "start_iso": "2026-10-26T22:13:06+08:00",
-   "end_iso": "2026-11-23T22:13:06+08:00",
-   "reason": "2-2",
-   "title": "[公告] carterdunk 2-2 摸著良心進水桶",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793023986.A.369.html",
-   "aid": "M.1793023986.A.369",
-   "source": "manual"
-  },
   {
    "user": "Sparda",
    "days": 28,
@@ -2165,6 +2151,16 @@
   }
  ],
  "released": [
+  {
+   "user": "carterdunk",
+   "days": 28,
+   "released_at": 1795443186,
+   "released_iso": "2026-11-23T22:13:06+08:00",
+   "reason": "2-2",
+   "title": "[公告] carterdunk 2-2 摸著良心進水桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793023986.A.369.html",
+   "aid": "M.1793023986.A.369"
+  },
   {
    "user": "smpian",
    "days": 35,
