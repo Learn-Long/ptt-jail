@@ -258,7 +258,6 @@ function renderStats() {
   $('#stat-24h').textContent = soon;
   $('#stat-life').textContent = d.prisoners.filter(p => p.lifetime).length;
   $('#stat-updated').textContent = fmtS(d.generated_at);
-  $('#demo-banner').hidden = !d.demo;
   document.title = `(${d.prisoners.length}) HatePolitics 水桶監獄`;
 }
 
