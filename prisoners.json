@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795446318,
- "generated_iso": "2026-11-23T23:05:18+08:00",
+ "generated_at": 1795448153,
+ "generated_iso": "2026-11-23T23:35:53+08:00",
  "demo": false,
  "count": 152,
  "lifers": 7,
  "review_count": 52,
  "prisoners": [
-  {
-   "user": "hesenberg",
-   "days": 28,
-   "lifetime": false,
-   "start": 1793027990,
-   "end": 1795447190,
-   "start_iso": "2026-10-26T23:19:50+08:00",
-   "end_iso": "2026-11-23T23:19:50+08:00",
-   "reason": "",
-   "title": "[公告] hesenberg 暫行板規 2組 向青鳥開戰",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793027990.A.C14.html",
-   "aid": "M.1793027990.A.C14",
-   "source": "manual"
-  },
   {
    "user": "s72005ming",
    "days": 14,
@@ -929,6 +915,20 @@
    "title": "[公告] xulzj524 暫行板規 等開票完再回來這笑死",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794229448.A.895.html",
    "aid": "M.1794229448.A.895",
+   "source": "manual"
+  },
+  {
+   "user": "wamng",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795447180,
+   "end": 1796656780,
+   "start_iso": "2026-11-23T23:19:40+08:00",
+   "end_iso": "2026-12-07T23:19:40+08:00",
+   "reason": "2-2",
+   "title": "[公告] wamng 2-2 水桶崩潰阿",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795447180.A.CE2.html",
+   "aid": "M.1795447180.A.CE2",
    "source": "manual"
   },
   {
@@ -2138,6 +2138,16 @@
  ],
  "released": [
   {
+   "user": "hesenberg",
+   "days": 28,
+   "released_at": 1795447190,
+   "released_iso": "2026-11-23T23:19:50+08:00",
+   "reason": "",
+   "title": "[公告] hesenberg 暫行板規 2組 向青鳥開戰",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793027990.A.C14.html",
+   "aid": "M.1793027990.A.C14"
+  },
+  {
    "user": "Sparda",
    "days": 28,
    "released_at": 1795446154,
@@ -2336,16 +2346,6 @@
    "title": "[公告] enich 暫行板規 哈哈哈哈哈",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794022933.A.69D.html",
    "aid": "M.1794022933.A.69D"
-  },
-  {
-   "user": "ex990000",
-   "days": 14,
-   "released_at": 1795188282,
-   "released_iso": "2026-11-20T23:24:42+08:00",
-   "reason": "2-1",
-   "title": "[公告] ex990000 2-1 不送",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793978682.A.002.html",
-   "aid": "M.1793978682.A.002"
   }
  ]
 }
