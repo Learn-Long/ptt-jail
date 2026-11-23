@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HatePolitics 水桶監獄</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;900&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="demo-banner" class="demo-banner" hidden>⚠️ 目前是示範資料（假帳號）。執行爬蟲後會換成真實名單。</div>
+
+<header class="top">
+  <div class="brand">
+    <span class="logo">🏛️</span>
+    <div>
+      <h1>HatePolitics 水桶監獄</h1>
+      <p class="sub">PTT 政黑板目前被水桶的板友，出獄倒數一目了然</p>
+    </div>
+  </div>
+  <div class="stats">
+    <div class="stat big"><span class="num" id="stat-total">–</span><span class="lbl">關押中</span></div>
+    <div class="stat"><span class="num" id="stat-24h">–</span><span class="lbl">24 小時內出獄</span></div>
+    <div class="stat"><span class="num" id="stat-life">–</span><span class="lbl">無期徒刑</span></div>
+    <div class="stat"><span class="num small" id="stat-updated">–</span><span class="lbl">名單更新</span></div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <input id="search" type="search" placeholder="🔍 搜尋帳號…" autocomplete="off" spellcheck="false">
+  <span id="search-hint" class="hint"></span>
+</div>
+
+<main class="layout">
+  <section class="jail-wrap">
+    <div class="jail-roof"><span>⛓️ 政 黑 監 獄 ⛓️</span></div>
+    <div class="jail" id="jail"></div>
+    <div class="yard">
+      <h2>🌤️ 自由廣場 <small>3 天內出獄的板友</small></h2>
+      <div class="yard-floor" id="yard"></div>
+    </div>
+  </section>
+  <aside class="board">
+    <h2>⏳ 即將出獄</h2>
+    <ol id="leaderboard"></ol>
+  </aside>
+</main>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true">
+    <button class="close" id="modal-close" aria-label="關閉">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<footer>資料來源：PTT HatePolitics 板 [公告]。入獄時間以公告發文時間計算，僅供參考，以板主公告為準。</footer>
+<script src="app.js"></script>
+</body>
+</html>
