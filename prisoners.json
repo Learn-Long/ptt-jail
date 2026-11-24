@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795525510,
- "generated_iso": "2026-11-24T21:05:10+08:00",
+ "generated_at": 1795527311,
+ "generated_iso": "2026-11-24T21:35:11+08:00",
  "demo": false,
- "count": 157,
+ "count": 156,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "s910211",
-   "days": 7,
-   "lifetime": false,
-   "start": 1794921142,
-   "end": 1795525942,
-   "start_iso": "2026-11-17T21:12:22+08:00",
-   "end_iso": "2026-11-24T21:12:22+08:00",
-   "reason": "2-2",
-   "title": "[公告] s910211 2-2 壓線成功",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794921142.A.555.html",
-   "aid": "M.1794921142.A.555",
-   "source": "llm"
-  },
   {
    "user": "kuninaka",
    "days": 21,
@@ -2207,6 +2193,16 @@
   }
  ],
  "released": [
+  {
+   "user": "s910211",
+   "days": 7,
+   "released_at": 1795525942,
+   "released_iso": "2026-11-24T21:12:22+08:00",
+   "reason": "2-2",
+   "title": "[公告] s910211 2-2 壓線成功",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794921142.A.555.html",
+   "aid": "M.1794921142.A.555"
+  },
   {
    "user": "s72005ming",
    "days": 14,
