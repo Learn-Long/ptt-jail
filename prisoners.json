@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795529118,
- "generated_iso": "2026-11-24T22:05:18+08:00",
+ "generated_at": 1795530912,
+ "generated_iso": "2026-11-24T22:35:12+08:00",
  "demo": false,
  "count": 156,
  "lifers": 5,
@@ -2372,26 +2372,6 @@
    "title": "[公告] nsk 暫行板規 中評社 中評社 中評社",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794101565.A.935.html",
    "aid": "M.1794101565.A.935"
-  },
-  {
-   "user": "jump9128",
-   "days": 28,
-   "released_at": 1795271361,
-   "released_iso": "2026-11-21T22:29:21+08:00",
-   "reason": "",
-   "title": "[公告] jump9128 暫行板規 你高興就好",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792852161.A.0F3.html",
-   "aid": "M.1792852161.A.0F3"
-  },
-  {
-   "user": "BIA",
-   "days": 28,
-   "released_at": 1795270890,
-   "released_iso": "2026-11-21T22:21:30+08:00",
-   "reason": "2-1",
-   "title": "[公告] BIA 2-1 沒關係還能參加盛宴",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792851690.A.672.html",
-   "aid": "M.1792851690.A.672"
   }
  ]
 }
