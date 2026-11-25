@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795570521,
- "generated_iso": "2026-11-25T09:35:21+08:00",
+ "generated_at": 1795572314,
+ "generated_iso": "2026-11-25T10:05:14+08:00",
  "demo": false,
- "count": 158,
+ "count": 157,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "kuninaka",
-   "days": 21,
-   "lifetime": false,
-   "start": 1793757657,
-   "end": 1795572057,
-   "start_iso": "2026-11-04T10:00:57+08:00",
-   "end_iso": "2026-11-25T10:00:57+08:00",
-   "reason": "2-1",
-   "title": "[公告] kuninaka 2-1 出來看開票剛好",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793757657.A.865.html",
-   "aid": "M.1793757657.A.865",
-   "source": "llm"
-  },
   {
    "user": "letmesee3085",
    "days": 14,
@@ -2222,6 +2208,16 @@
  ],
  "released": [
   {
+   "user": "kuninaka",
+   "days": 21,
+   "released_at": 1795572057,
+   "released_iso": "2026-11-25T10:00:57+08:00",
+   "reason": "2-1",
+   "title": "[公告] kuninaka 2-1 出來看開票剛好",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793757657.A.865.html",
+   "aid": "M.1793757657.A.865"
+  },
+  {
    "user": "s910211",
    "days": 7,
    "released_at": 1795525942,
@@ -2370,26 +2366,6 @@
    "title": "[公告] Scion 3-1 3-2 還能開趴",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792338479.A.C72.html",
    "aid": "M.1792338479.A.C72"
-  },
-  {
-   "user": "IDJocl4",
-   "days": 7,
-   "released_at": 1795311614,
-   "released_iso": "2026-11-22T09:40:14+08:00",
-   "reason": "2-1",
-   "title": "[公告] IDJocl4 2-1 還有機會開趴",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794706814.A.879.html",
-   "aid": "M.1794706814.A.879"
-  },
-  {
-   "user": "ostracize",
-   "days": 14,
-   "released_at": 1795311399,
-   "released_iso": "2026-11-22T09:36:39+08:00",
-   "reason": "2-9",
-   "title": "[公告] ostracize 2-9 選情真熱發了11篇",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794101799.A.49C.html",
-   "aid": "M.1794101799.A.49C"
   }
  ]
 }
