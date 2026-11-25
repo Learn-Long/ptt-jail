@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795568721,
- "generated_iso": "2026-11-25T09:05:21+08:00",
+ "generated_at": 1795570521,
+ "generated_iso": "2026-11-25T09:35:21+08:00",
  "demo": false,
  "count": 158,
  "lifers": 5,
@@ -2390,16 +2390,6 @@
    "title": "[公告] ostracize 2-9 選情真熱發了11篇",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794101799.A.49C.html",
    "aid": "M.1794101799.A.49C"
-  },
-  {
-   "user": "nsk",
-   "days": 14,
-   "released_at": 1795311165,
-   "released_iso": "2026-11-22T09:32:45+08:00",
-   "reason": "",
-   "title": "[公告] nsk 暫行板規 中評社 中評社 中評社",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794101565.A.935.html",
-   "aid": "M.1794101565.A.935"
   }
  ]
 }
