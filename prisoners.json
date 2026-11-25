@@ -1,40 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795586716,
- "generated_iso": "2026-11-25T14:05:16+08:00",
+ "generated_at": 1795588516,
+ "generated_iso": "2026-11-25T14:35:16+08:00",
  "demo": false,
- "count": 158,
+ "count": 156,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "letmesee3085",
-   "days": 14,
-   "lifetime": false,
-   "start": 1794377493,
-   "end": 1795587093,
-   "start_iso": "2026-11-11T14:11:33+08:00",
-   "end_iso": "2026-11-25T14:11:33+08:00",
-   "reason": "",
-   "title": "[公告] letmesee3085 暫行板規 light到水桶裡",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794377493.A.D85.html",
-   "aid": "M.1794377493.A.D85",
-   "source": "llm"
-  },
-  {
-   "user": "CenaWang",
-   "days": 14,
-   "lifetime": false,
-   "start": 1794378771,
-   "end": 1795588371,
-   "start_iso": "2026-11-11T14:32:51+08:00",
-   "end_iso": "2026-11-25T14:32:51+08:00",
-   "reason": "",
-   "title": "[公告] CenaWang 暫行板規 本省雜草的票不要了",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794378771.A.80F.html",
-   "aid": "M.1794378771.A.80F",
-   "source": "llm"
-  },
   {
    "user": "cwchang2100",
    "days": 7,
@@ -2221,6 +2193,26 @@
   }
  ],
  "released": [
+  {
+   "user": "CenaWang",
+   "days": 14,
+   "released_at": 1795588371,
+   "released_iso": "2026-11-25T14:32:51+08:00",
+   "reason": "",
+   "title": "[公告] CenaWang 暫行板規 本省雜草的票不要了",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794378771.A.80F.html",
+   "aid": "M.1794378771.A.80F"
+  },
+  {
+   "user": "letmesee3085",
+   "days": 14,
+   "released_at": 1795587093,
+   "released_iso": "2026-11-25T14:11:33+08:00",
+   "reason": "",
+   "title": "[公告] letmesee3085 暫行板規 light到水桶裡",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794377493.A.D85.html",
+   "aid": "M.1794377493.A.D85"
+  },
   {
    "user": "kuninaka",
    "days": 21,
