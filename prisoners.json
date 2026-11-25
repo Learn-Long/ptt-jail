@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795574112,
- "generated_iso": "2026-11-25T10:35:12+08:00",
+ "generated_at": 1795575927,
+ "generated_iso": "2026-11-25T11:05:27+08:00",
  "demo": false,
- "count": 157,
+ "count": 158,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -593,6 +593,20 @@
    "title": "[公告] cheninher 2-2 選後才能相見了 嗚嗚嗚",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794320573.A.DDA.html",
    "aid": "M.1794320573.A.DDA",
+   "source": "llm"
+  },
+  {
+   "user": "akiranon",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795574359,
+   "end": 1796179159,
+   "start_iso": "2026-11-25T10:39:19+08:00",
+   "end_iso": "2026-12-02T10:39:19+08:00",
+   "reason": "2-5-d",
+   "title": "[公告] akiranon 2-5-d 我笑了!!!",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795574359.A.C21.html",
+   "aid": "M.1795574359.A.C21",
    "source": "llm"
   },
   {
