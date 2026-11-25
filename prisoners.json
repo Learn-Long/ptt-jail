@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795592120,
- "generated_iso": "2026-11-25T15:35:20+08:00",
+ "generated_at": 1795593925,
+ "generated_iso": "2026-11-25T16:05:25+08:00",
  "demo": false,
- "count": 156,
+ "count": 158,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -593,6 +593,20 @@
    "title": "[公告] HappyKH 3-1 出來票都開完了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793155787.A.7D6.html",
    "aid": "M.1793155787.A.7D6",
+   "source": "llm"
+  },
+  {
+   "user": "DONNY",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795588638,
+   "end": 1796193438,
+   "start_iso": "2026-11-25T14:37:18+08:00",
+   "end_iso": "2026-12-02T14:37:18+08:00",
+   "reason": "2-1",
+   "title": "[公告] DONNY 2-1 結果都是水桶拉",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795588638.A.E6B.html",
+   "aid": "M.1795588638.A.E6B",
    "source": "llm"
   },
   {
@@ -1223,6 +1237,20 @@
    "title": "[公告] ga023630 多篇 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791940172.A.EA7.html",
    "aid": "M.1791940172.A.EA7",
+   "source": "llm"
+  },
+  {
+   "user": "kuso2005",
+   "days": 28,
+   "lifetime": false,
+   "start": 1795588021,
+   "end": 1798007221,
+   "start_iso": "2026-11-25T14:27:01+08:00",
+   "end_iso": "2026-12-23T14:27:01+08:00",
+   "reason": "2-1",
+   "title": "[公告] kuso2005 2-1 進進出出不累嗎?",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795588021.A.765.html",
+   "aid": "M.1795588021.A.765",
    "source": "llm"
   },
   {
