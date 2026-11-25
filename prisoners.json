@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795624526,
- "generated_iso": "2026-11-26T00:35:26+08:00",
+ "generated_at": 1795626329,
+ "generated_iso": "2026-11-26T01:05:29+08:00",
  "demo": false,
- "count": 158,
+ "count": 161,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -607,6 +607,34 @@
    "title": "[公告] nimi2124 2-1             (tn00270144)",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795616827.A.146.html",
    "aid": "M.1795616827.A.146",
+   "source": "llm"
+  },
+  {
+   "user": "lalacoa",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795618640,
+   "end": 1796223440,
+   "start_iso": "2026-11-25T22:57:20+08:00",
+   "end_iso": "2026-12-02T22:57:20+08:00",
+   "reason": "2-2",
+   "title": "[公告] lalacoa 2-2 市民之夜取消",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795618640.A.8BC.html",
+   "aid": "M.1795618640.A.8BC",
+   "source": "llm"
+  },
+  {
+   "user": "ryannieh",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795622014,
+   "end": 1796226814,
+   "start_iso": "2026-11-25T23:53:34+08:00",
+   "end_iso": "2026-12-02T23:53:34+08:00",
+   "reason": "2-1",
+   "title": "[公告] ryannieh 2-1 市民之夜被取消了!!!",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795622014.A.7CE.html",
+   "aid": "M.1795622014.A.7CE",
    "source": "llm"
   },
   {
@@ -1251,6 +1279,20 @@
    "title": "[公告] kuso2005 2-1 進進出出不累嗎?",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795588021.A.765.html",
    "aid": "M.1795588021.A.765",
+   "source": "llm"
+  },
+  {
+   "user": "defu",
+   "days": 28,
+   "lifetime": false,
+   "start": 1795618423,
+   "end": 1798037623,
+   "start_iso": "2026-11-25T22:53:43+08:00",
+   "end_iso": "2026-12-23T22:53:43+08:00",
+   "reason": "",
+   "title": "[公告] defu 暫行版規 X2",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795618423.A.1AF.html",
+   "aid": "M.1795618423.A.1AF",
    "source": "llm"
   },
   {
