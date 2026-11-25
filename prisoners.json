@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795566919,
- "generated_iso": "2026-11-25T08:35:19+08:00",
+ "generated_at": 1795568721,
+ "generated_iso": "2026-11-25T09:05:21+08:00",
  "demo": false,
- "count": 156,
+ "count": 158,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -946,6 +946,20 @@
    "source": "llm"
   },
   {
+   "user": "beaverz",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795568066,
+   "end": 1796777666,
+   "start_iso": "2026-11-25T08:54:26+08:00",
+   "end_iso": "2026-12-09T08:54:26+08:00",
+   "reason": "2-2",
+   "title": "[公告] beaverz 暫行板規 又一個鎖自己的",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795568066.A.54F.html",
+   "aid": "M.1795568066.A.54F",
+   "source": "llm"
+  },
+  {
    "user": "TWTP2018",
    "days": 35,
    "lifetime": false,
@@ -1503,6 +1517,20 @@
    "title": "[公告] IBIZA 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1789955453.A.FA3.html",
    "aid": "M.1789955453.A.FA3",
+   "source": "llm"
+  },
+  {
+   "user": "yumika",
+   "days": 98,
+   "lifetime": false,
+   "start": 1795564680,
+   "end": 1804031880,
+   "start_iso": "2026-11-25T07:58:00+08:00",
+   "end_iso": "2027-03-03T07:58:00+08:00",
+   "reason": "2-2",
+   "title": "[公告] yumika 暫行板規 7組 把自己鎖進水桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795564680.A.977.html",
+   "aid": "M.1795564680.A.977",
    "source": "llm"
   },
   {
