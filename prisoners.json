@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795678593,
- "generated_iso": "2026-11-26T15:36:33+08:00",
+ "generated_at": 1795680474,
+ "generated_iso": "2026-11-26T16:07:54+08:00",
  "demo": false,
  "count": 167,
  "lifers": 5,
@@ -2496,26 +2496,6 @@
    "title": "[公告] peter080808 2-9 還好還有入場券",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794229185.A.4E3.html",
    "aid": "M.1794229185.A.4E3"
-  },
-  {
-   "user": "August2006",
-   "days": 49,
-   "released_at": 1795420713,
-   "released_iso": "2026-11-23T15:58:33+08:00",
-   "reason": "2-9",
-   "title": "[公告] August2006 2-9 沒關係開票前能回來",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1791187113.A.CAC.html",
-   "aid": "M.1791187113.A.CAC"
-  },
-  {
-   "user": "terrymoon",
-   "days": 7,
-   "released_at": 1795420415,
-   "released_iso": "2026-11-23T15:53:35+08:00",
-   "reason": "2-2",
-   "title": "[公告] terrymoon 2-2 28%->2%",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794815615.A.5E0.html",
-   "aid": "M.1794815615.A.5E0"
   }
  ]
 }
