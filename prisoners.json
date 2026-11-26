@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795705603,
- "generated_iso": "2026-11-26T23:06:43+08:00",
+ "generated_at": 1795707355,
+ "generated_iso": "2026-11-26T23:35:55+08:00",
  "demo": false,
  "count": 169,
  "lifers": 5,
@@ -2514,16 +2514,6 @@
    "title": "[公告] s72005ming 2-1 神秘水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794277159.A.B2D.html",
    "aid": "M.1794277159.A.B2D"
-  },
-  {
-   "user": "hesenberg",
-   "days": 28,
-   "released_at": 1795447190,
-   "released_iso": "2026-11-23T23:19:50+08:00",
-   "reason": "",
-   "title": "[公告] hesenberg 暫行板規 2組 向青鳥開戰",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793027990.A.C14.html",
-   "aid": "M.1793027990.A.C14"
   }
  ]
 }
