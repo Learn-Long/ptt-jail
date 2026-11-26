@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795691157,
- "generated_iso": "2026-11-26T19:05:57+08:00",
+ "generated_at": 1795693297,
+ "generated_iso": "2026-11-26T19:41:37+08:00",
  "demo": false,
- "count": 170,
+ "count": 169,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "youjunjer",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795086486,
-   "end": 1795691286,
-   "start_iso": "2026-11-19T19:08:06+08:00",
-   "end_iso": "2026-11-26T19:08:06+08:00",
-   "reason": "2-1",
-   "title": "[公告] youjunjer 2-1 水桶裡可以打X",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795086486.A.584.html",
-   "aid": "M.1795086486.A.584",
-   "source": "llm"
-  },
   {
    "user": "h5t6566556",
    "days": 14,
@@ -2389,6 +2375,16 @@
   }
  ],
  "released": [
+  {
+   "user": "youjunjer",
+   "days": 7,
+   "released_at": 1795691286,
+   "released_iso": "2026-11-26T19:08:06+08:00",
+   "reason": "2-1",
+   "title": "[公告] youjunjer 2-1 水桶裡可以打X",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795086486.A.584.html",
+   "aid": "M.1795086486.A.584"
+  },
   {
    "user": "lulu1305174",
    "days": 7,
