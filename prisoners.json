@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795673146,
- "generated_iso": "2026-11-26T14:05:46+08:00",
+ "generated_at": 1795674951,
+ "generated_iso": "2026-11-26T14:35:51+08:00",
  "demo": false,
- "count": 166,
+ "count": 167,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "lulu1305174",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795068549,
-   "end": 1795673349,
-   "start_iso": "2026-11-19T14:09:09+08:00",
-   "end_iso": "2026-11-26T14:09:09+08:00",
-   "reason": "2-5-d",
-   "title": "[公告] lulu1305174 2-5-d 水桶宮不會倒戈",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795068549.A.FAD.html",
-   "aid": "M.1795068549.A.FAD",
-   "source": "llm"
-  },
   {
    "user": "youjunjer",
    "days": 7,
@@ -652,6 +638,20 @@
    "source": "llm"
   },
   {
+   "user": "LinuxKernel",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795667542,
+   "end": 1796272342,
+   "start_iso": "2026-11-26T12:32:22+08:00",
+   "end_iso": "2026-12-03T12:32:22+08:00",
+   "reason": "2-2",
+   "title": "[公告] LinuxKernel 2-2 有比我水桶快嗎",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795667542.A.333.html",
+   "aid": "M.1795667542.A.333",
+   "source": "llm"
+  },
+  {
    "user": "mancuteboy",
    "days": 14,
    "lifetime": false,
@@ -663,6 +663,20 @@
    "title": "[公告] mancuteboy 2-2 躺到進水桶也是贏",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795064518.A.94D.html",
    "aid": "M.1795064518.A.94D",
+   "source": "llm"
+  },
+  {
+   "user": "Nick87061319",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795671771,
+   "end": 1796276571,
+   "start_iso": "2026-11-26T13:42:51+08:00",
+   "end_iso": "2026-12-03T13:42:51+08:00",
+   "reason": "2-2",
+   "title": "[公告] Nick87061319 2-2 他會說恭喜你水桶了",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795671771.A.788.html",
+   "aid": "M.1795671771.A.788",
    "source": "llm"
   },
   {
@@ -2333,6 +2347,16 @@
   }
  ],
  "released": [
+  {
+   "user": "lulu1305174",
+   "days": 7,
+   "released_at": 1795673349,
+   "released_iso": "2026-11-26T14:09:09+08:00",
+   "reason": "2-5-d",
+   "title": "[公告] lulu1305174 2-5-d 水桶宮不會倒戈",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795068549.A.FAD.html",
+   "aid": "M.1795068549.A.FAD"
+  },
   {
    "user": "green0616",
    "days": 7,
