@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795696589,
- "generated_iso": "2026-11-26T20:36:29+08:00",
+ "generated_at": 1795698391,
+ "generated_iso": "2026-11-26T21:06:31+08:00",
  "demo": false,
  "count": 169,
  "lifers": 5,
@@ -2524,16 +2524,6 @@
    "title": "[公告] smpian 3-1 3-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1792416067.A.51E.html",
    "aid": "M.1792416067.A.51E"
-  },
-  {
-   "user": "peter080808",
-   "days": 14,
-   "released_at": 1795438785,
-   "released_iso": "2026-11-23T20:59:45+08:00",
-   "reason": "2-9",
-   "title": "[公告] peter080808 2-9 還好還有入場券",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794229185.A.4E3.html",
-   "aid": "M.1794229185.A.4E3"
   }
  ]
 }
