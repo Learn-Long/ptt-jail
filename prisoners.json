@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795689345,
- "generated_iso": "2026-11-26T18:35:45+08:00",
+ "generated_at": 1795691157,
+ "generated_iso": "2026-11-26T19:05:57+08:00",
  "demo": false,
- "count": 168,
+ "count": 170,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -691,6 +691,34 @@
    "title": "[公告] MarkZuck 2-2 確實",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795679562.A.985.html",
    "aid": "M.1795679562.A.985",
+   "source": "llm"
+  },
+  {
+   "user": "va1kyrie",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795686129,
+   "end": 1796290929,
+   "start_iso": "2026-11-26T17:42:09+08:00",
+   "end_iso": "2026-12-03T17:42:09+08:00",
+   "reason": "2-1",
+   "title": "[公告] va1kyrie 2-1",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795686129.A.899.html",
+   "aid": "M.1795686129.A.899",
+   "source": "llm"
+  },
+  {
+   "user": "snake2017",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795686313,
+   "end": 1796291113,
+   "start_iso": "2026-11-26T17:45:13+08:00",
+   "end_iso": "2026-12-03T17:45:13+08:00",
+   "reason": "2-1",
+   "title": "[公告] snake2017 2-1",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795686313.A.E4A.html",
+   "aid": "M.1795686313.A.E4A",
    "source": "llm"
   },
   {
