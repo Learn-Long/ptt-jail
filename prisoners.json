@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795700251,
- "generated_iso": "2026-11-26T21:37:31+08:00",
+ "generated_at": 1795702000,
+ "generated_iso": "2026-11-26T22:06:40+08:00",
  "demo": false,
- "count": 170,
+ "count": 169,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "weli23119",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795096968,
-   "end": 1795701768,
-   "start_iso": "2026-11-19T22:02:48+08:00",
-   "end_iso": "2026-11-26T22:02:48+08:00",
-   "reason": "2-9",
-   "title": "[公告] weli23119 2-9 辛苦了發那麼多文!!!",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795096968.A.1B0.html",
-   "aid": "M.1795096968.A.1B0",
-   "source": "llm"
-  },
   {
    "user": "wer11",
    "days": 28,
@@ -2389,6 +2375,16 @@
   }
  ],
  "released": [
+  {
+   "user": "weli23119",
+   "days": 7,
+   "released_at": 1795701768,
+   "released_iso": "2026-11-26T22:02:48+08:00",
+   "reason": "2-9",
+   "title": "[公告] weli23119 2-9 辛苦了發那麼多文!!!",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795096968.A.1B0.html",
+   "aid": "M.1795096968.A.1B0"
+  },
   {
    "user": "h5t6566556",
    "days": 14,
