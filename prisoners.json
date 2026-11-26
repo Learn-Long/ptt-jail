@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795655131,
- "generated_iso": "2026-11-26T09:05:31+08:00",
+ "generated_at": 1795656925,
+ "generated_iso": "2026-11-26T09:35:25+08:00",
  "demo": false,
- "count": 160,
+ "count": 159,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "popoyellow",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795050425,
-   "end": 1795655225,
-   "start_iso": "2026-11-19T09:07:05+08:00",
-   "end_iso": "2026-11-26T09:07:05+08:00",
-   "reason": "2-1",
-   "title": "[公告] popoyellow 2-1 分類也跟著到基輔",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795050425.A.9EA.html",
-   "aid": "M.1795050425.A.9EA",
-   "source": "llm"
-  },
   {
    "user": "assxass",
    "days": 7,
@@ -2250,6 +2236,16 @@
  ],
  "released": [
   {
+   "user": "popoyellow",
+   "days": 7,
+   "released_at": 1795655225,
+   "released_iso": "2026-11-26T09:07:05+08:00",
+   "reason": "2-1",
+   "title": "[公告] popoyellow 2-1 分類也跟著到基輔",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795050425.A.9EA.html",
+   "aid": "M.1795050425.A.9EA"
+  },
+  {
    "user": "aass5566",
    "days": 7,
    "released_at": 1795654992,
@@ -2408,26 +2404,6 @@
    "title": "[公告] pennyleo 2-1 有多噁心說看看",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794188470.A.096.html",
    "aid": "M.1794188470.A.096"
-  },
-  {
-   "user": "hotisaac",
-   "days": 14,
-   "released_at": 1795397376,
-   "released_iso": "2026-11-23T09:29:36+08:00",
-   "reason": "",
-   "title": "[公告] hotisaac 暫行板規 戒慎恐懼",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794187776.A.984.html",
-   "aid": "M.1794187776.A.984"
-  },
-  {
-   "user": "vaude",
-   "days": 14,
-   "released_at": 1795397225,
-   "released_iso": "2026-11-23T09:27:05+08:00",
-   "reason": "",
-   "title": "[公告] vaude 暫行板規 假日還要洗圖喔",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794187625.A.1FB.html",
-   "aid": "M.1794187625.A.1FB"
   }
  ]
 }
