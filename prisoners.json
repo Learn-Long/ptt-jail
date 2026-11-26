@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795703803,
- "generated_iso": "2026-11-26T22:36:43+08:00",
+ "generated_at": 1795705603,
+ "generated_iso": "2026-11-26T23:06:43+08:00",
  "demo": false,
  "count": 169,
  "lifers": 5,
@@ -2524,16 +2524,6 @@
    "title": "[公告] hesenberg 暫行板規 2組 向青鳥開戰",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793027990.A.C14.html",
    "aid": "M.1793027990.A.C14"
-  },
-  {
-   "user": "Sparda",
-   "days": 28,
-   "released_at": 1795446154,
-   "released_iso": "2026-11-23T23:02:34+08:00",
-   "reason": "",
-   "title": "[公告] Sparda 暫行板規 2組 約水桶好不好?",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793026954.A.DC3.html",
-   "aid": "M.1793026954.A.DC3"
   }
  ]
 }
