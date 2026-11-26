@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795680474,
- "generated_iso": "2026-11-26T16:07:54+08:00",
+ "generated_at": 1795682514,
+ "generated_iso": "2026-11-26T16:41:54+08:00",
  "demo": false,
- "count": 167,
+ "count": 168,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -677,6 +677,20 @@
    "title": "[公告] Nick87061319 2-2 他會說恭喜你水桶了",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795671771.A.788.html",
    "aid": "M.1795671771.A.788",
+   "source": "llm"
+  },
+  {
+   "user": "MarkZuck",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795679562,
+   "end": 1796284362,
+   "start_iso": "2026-11-26T15:52:42+08:00",
+   "end_iso": "2026-12-03T15:52:42+08:00",
+   "reason": "2-2",
+   "title": "[公告] MarkZuck 2-2 確實",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795679562.A.985.html",
+   "aid": "M.1795679562.A.985",
    "source": "llm"
   },
   {
