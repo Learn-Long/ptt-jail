@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795651532,
- "generated_iso": "2026-11-26T08:05:32+08:00",
+ "generated_at": 1795653330,
+ "generated_iso": "2026-11-26T08:35:30+08:00",
  "demo": false,
  "count": 161,
  "lifers": 5,
@@ -2432,16 +2432,6 @@
    "title": "[公告] vaude 暫行板規 假日還要洗圖喔",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794187625.A.1FB.html",
    "aid": "M.1794187625.A.1FB"
-  },
-  {
-   "user": "asdfzx",
-   "days": 14,
-   "released_at": 1795393319,
-   "released_iso": "2026-11-23T08:21:59+08:00",
-   "reason": "",
-   "title": "[公告] asdfzx 暫行板規 洗圖退散",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794183719.A.879.html",
-   "aid": "M.1794183719.A.879"
   }
  ]
 }
