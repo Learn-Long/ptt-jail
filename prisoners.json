@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795664124,
- "generated_iso": "2026-11-26T11:35:24+08:00",
+ "generated_at": 1795665946,
+ "generated_iso": "2026-11-26T12:05:46+08:00",
  "demo": false,
- "count": 162,
+ "count": 168,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -638,6 +638,34 @@
    "source": "llm"
   },
   {
+   "user": "siahlin",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795659783,
+   "end": 1796264583,
+   "start_iso": "2026-11-26T10:23:03+08:00",
+   "end_iso": "2026-12-03T10:23:03+08:00",
+   "reason": "2-5-d",
+   "title": "[公告] siahlin 2-5-d",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795659783.A.58F.html",
+   "aid": "M.1795659783.A.58F",
+   "source": "llm"
+  },
+  {
+   "user": "lpsa",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795660822,
+   "end": 1796265622,
+   "start_iso": "2026-11-26T10:40:22+08:00",
+   "end_iso": "2026-12-03T10:40:22+08:00",
+   "reason": "2-5-d",
+   "title": "[公告] lpsa 2-5-d 我也看不下去了 88",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795660822.A.A61.html",
+   "aid": "M.1795660822.A.A61",
+   "source": "llm"
+  },
+  {
    "user": "cystal",
    "days": 14,
    "lifetime": false,
@@ -988,6 +1016,48 @@
    "source": "llm"
   },
   {
+   "user": "likeyousmile",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795658634,
+   "end": 1796868234,
+   "start_iso": "2026-11-26T10:03:54+08:00",
+   "end_iso": "2026-12-10T10:03:54+08:00",
+   "reason": "",
+   "title": "[公告] likeyousmile 暫行板規 搶那麼多超離譜",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795658634.A.948.html",
+   "aid": "M.1795658634.A.948",
+   "source": "llm"
+  },
+  {
+   "user": "indexcome",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795663668,
+   "end": 1796873268,
+   "start_iso": "2026-11-26T11:27:48+08:00",
+   "end_iso": "2026-12-10T11:27:48+08:00",
+   "reason": "",
+   "title": "[公告] indexcome 暫行板規 國民黨真的很爛",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795663668.A.280.html",
+   "aid": "M.1795663668.A.280",
+   "source": "llm"
+  },
+  {
+   "user": "jimabc",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795663845,
+   "end": 1796873445,
+   "start_iso": "2026-11-26T11:30:45+08:00",
+   "end_iso": "2026-12-10T11:30:45+08:00",
+   "reason": "",
+   "title": "[公告] jimabc 暫行板規 洗圖仔都哪來的?",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795663845.A.F71.html",
+   "aid": "M.1795663845.A.F71",
+   "source": "llm"
+  },
+  {
    "user": "venson",
    "days": 21,
    "lifetime": false,
@@ -1279,6 +1349,20 @@
    "title": "[公告] defu 暫行版規 X2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795618423.A.1AF.html",
    "aid": "M.1795618423.A.1AF",
+   "source": "llm"
+  },
+  {
+   "user": "k1025hung",
+   "days": 28,
+   "lifetime": false,
+   "start": 1795663486,
+   "end": 1798082686,
+   "start_iso": "2026-11-26T11:24:46+08:00",
+   "end_iso": "2026-12-24T11:24:46+08:00",
+   "reason": "",
+   "title": "[公告] k1025hung 暫行板規 洗圖仔88",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795663486.A.5B2.html",
+   "aid": "M.1795663486.A.5B2",
    "source": "llm"
   },
   {
