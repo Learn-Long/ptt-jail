@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795716369,
- "generated_iso": "2026-11-27T02:06:09+08:00",
+ "generated_at": 1795718171,
+ "generated_iso": "2026-11-27T02:36:11+08:00",
  "demo": false,
- "count": 173,
+ "count": 174,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -719,6 +719,20 @@
    "title": "[公告] tspnittaku 2-2 真的蠻可怕",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795707559.A.9FC.html",
    "aid": "M.1795707559.A.9FC",
+   "source": "llm"
+  },
+  {
+   "user": "cogi",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795708991,
+   "end": 1796313791,
+   "start_iso": "2026-11-27T00:03:11+08:00",
+   "end_iso": "2026-12-04T00:03:11+08:00",
+   "reason": "1-1",
+   "title": "[公告] cogi 暫行板規 蔣完了",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795708991.A.F24.html",
+   "aid": "M.1795708991.A.F24",
    "source": "llm"
   },
   {
