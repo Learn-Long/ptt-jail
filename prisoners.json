@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795745160,
- "generated_iso": "2026-11-27T10:06:00+08:00",
+ "generated_at": 1795746961,
+ "generated_iso": "2026-11-27T10:36:01+08:00",
  "demo": false,
  "count": 175,
  "lifers": 5,
@@ -2588,16 +2588,6 @@
    "title": "[公告] s910211 2-2 壓線成功",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794921142.A.555.html",
    "aid": "M.1794921142.A.555"
-  },
-  {
-   "user": "s72005ming",
-   "days": 14,
-   "released_at": 1795486759,
-   "released_iso": "2026-11-24T10:19:19+08:00",
-   "reason": "2-1",
-   "title": "[公告] s72005ming 2-1 神秘水桶",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794277159.A.B2D.html",
-   "aid": "M.1794277159.A.B2D"
   }
  ]
 }
