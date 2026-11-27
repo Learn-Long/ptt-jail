@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795784777,
- "generated_iso": "2026-11-27T21:06:17+08:00",
+ "generated_at": 1795786564,
+ "generated_iso": "2026-11-27T21:36:04+08:00",
  "demo": false,
  "count": 175,
  "lifers": 5,
@@ -2608,16 +2608,6 @@
    "title": "[公告] kuninaka 2-1 出來看開票剛好",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793757657.A.865.html",
    "aid": "M.1793757657.A.865"
-  },
-  {
-   "user": "s910211",
-   "days": 7,
-   "released_at": 1795525942,
-   "released_iso": "2026-11-24T21:12:22+08:00",
-   "reason": "2-2",
-   "title": "[公告] s910211 2-2 壓線成功",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794921142.A.555.html",
-   "aid": "M.1794921142.A.555"
   }
  ]
 }
