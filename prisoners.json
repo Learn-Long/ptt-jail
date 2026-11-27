@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795790162,
- "generated_iso": "2026-11-27T22:36:02+08:00",
+ "generated_at": 1795791969,
+ "generated_iso": "2026-11-27T23:06:09+08:00",
  "demo": false,
- "count": 175,
+ "count": 178,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -792,6 +792,20 @@
    "source": "llm"
   },
   {
+   "user": "qq950078",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795788640,
+   "end": 1796393440,
+   "start_iso": "2026-11-27T22:10:40+08:00",
+   "end_iso": "2026-12-04T22:10:40+08:00",
+   "reason": "2-2",
+   "title": "[公告] qq950078 2-2",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795788640.A.635.html",
+   "aid": "M.1795788640.A.635",
+   "source": "llm"
+  },
+  {
    "user": "toto123",
    "days": 35,
    "lifetime": false,
@@ -1142,6 +1156,20 @@
    "source": "llm"
   },
   {
+   "user": "webster1112",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795791459,
+   "end": 1797001059,
+   "start_iso": "2026-11-27T22:57:39+08:00",
+   "end_iso": "2026-12-11T22:57:39+08:00",
+   "reason": "",
+   "title": "[公告] webster1112 暫行板規 激動了!!!!",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795791459.A.07C.html",
+   "aid": "M.1795791459.A.07C",
+   "source": "llm"
+  },
+  {
    "user": "gn7722",
    "days": 28,
    "lifetime": false,
@@ -1321,6 +1349,20 @@
    "title": "[公告] piggybill 2-5-d 掰掰!!!選後見!!",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794528173.A.31E.html",
    "aid": "M.1794528173.A.31E",
+   "source": "llm"
+  },
+  {
+   "user": "traintravel",
+   "days": 21,
+   "lifetime": false,
+   "start": 1795788397,
+   "end": 1797602797,
+   "start_iso": "2026-11-27T22:06:37+08:00",
+   "end_iso": "2026-12-18T22:06:37+08:00",
+   "reason": "2-1,2-8",
+   "title": "[公告] traintravel 2-1x1  2-8x2",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795788397.A.73F.html",
+   "aid": "M.1795788397.A.73F",
    "source": "llm"
   },
   {
