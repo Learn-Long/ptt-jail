@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795791969,
- "generated_iso": "2026-11-27T23:06:09+08:00",
+ "generated_at": 1795793777,
+ "generated_iso": "2026-11-27T23:36:17+08:00",
  "demo": false,
- "count": 178,
+ "count": 177,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "Taiwanese",
-   "days": 14,
-   "lifetime": false,
-   "start": 1794583981,
-   "end": 1795793581,
-   "start_iso": "2026-11-13T23:33:01+08:00",
-   "end_iso": "2026-11-27T23:33:01+08:00",
-   "reason": "2-2",
-   "title": "[公告] Taiwanese 2-2",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794583981.A.12D.html",
-   "aid": "M.1794583981.A.12D",
-   "source": "llm"
-  },
   {
    "user": "cheer67",
    "days": 28,
@@ -2501,6 +2487,16 @@
   }
  ],
  "released": [
+  {
+   "user": "Taiwanese",
+   "days": 14,
+   "released_at": 1795793581,
+   "released_iso": "2026-11-27T23:33:01+08:00",
+   "reason": "2-2",
+   "title": "[公告] Taiwanese 2-2",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794583981.A.12D.html",
+   "aid": "M.1794583981.A.12D"
+  },
   {
    "user": "G4321",
    "days": 7,
