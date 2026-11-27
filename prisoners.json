@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795764962,
- "generated_iso": "2026-11-27T15:36:02+08:00",
+ "generated_at": 1795766758,
+ "generated_iso": "2026-11-27T16:05:58+08:00",
  "demo": false,
- "count": 175,
+ "count": 174,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "wer11",
-   "days": 28,
-   "lifetime": false,
-   "start": 1793347404,
-   "end": 1795766604,
-   "start_iso": "2026-10-30T16:03:24+08:00",
-   "end_iso": "2026-11-27T16:03:24+08:00",
-   "reason": "2-1",
-   "title": "[公告] wer11 2-1 刪刪哥刪到水桶",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793347404.A.6F0.html",
-   "aid": "M.1793347404.A.6F0",
-   "source": "llm"
-  },
   {
    "user": "XXXXGAY",
    "days": 14,
@@ -2459,6 +2445,16 @@
   }
  ],
  "released": [
+  {
+   "user": "wer11",
+   "days": 28,
+   "released_at": 1795766604,
+   "released_iso": "2026-11-27T16:03:24+08:00",
+   "reason": "2-1",
+   "title": "[公告] wer11 2-1 刪刪哥刪到水桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793347404.A.6F0.html",
+   "aid": "M.1793347404.A.6F0"
+  },
   {
    "user": "weli23119",
    "days": 7,
