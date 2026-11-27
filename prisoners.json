@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795782964,
- "generated_iso": "2026-11-27T20:36:04+08:00",
+ "generated_at": 1795784777,
+ "generated_iso": "2026-11-27T21:06:17+08:00",
  "demo": false,
- "count": 172,
+ "count": 175,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -764,6 +764,20 @@
    "source": "llm"
   },
   {
+   "user": "rainfruit",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795780123,
+   "end": 1796384923,
+   "start_iso": "2026-11-27T19:48:43+08:00",
+   "end_iso": "2026-12-04T19:48:43+08:00",
+   "reason": "2-2",
+   "title": "[公告] rainfruit 2-2 你也可以回家了 88",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795780123.A.CB0.html",
+   "aid": "M.1795780123.A.CB0",
+   "source": "llm"
+  },
+  {
    "user": "homeaki",
    "days": 14,
    "lifetime": false,
@@ -1097,6 +1111,34 @@
    "title": "[公告] venson 2-5-c 下去找連結21天",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795144771.A.52B.html",
    "aid": "M.1795144771.A.52B",
+   "source": "llm"
+  },
+  {
+   "user": "GQ38",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795780323,
+   "end": 1796989923,
+   "start_iso": "2026-11-27T19:52:03+08:00",
+   "end_iso": "2026-12-11T19:52:03+08:00",
+   "reason": "",
+   "title": "[公告] GQ38 暫行板規 穩的 穩的 穩的",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795780323.A.C1D.html",
+   "aid": "M.1795780323.A.C1D",
+   "source": "llm"
+  },
+  {
+   "user": "Ken963420",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795780542,
+   "end": 1796990142,
+   "start_iso": "2026-11-27T19:55:42+08:00",
+   "end_iso": "2026-12-11T19:55:42+08:00",
+   "reason": "",
+   "title": "[公告] Ken963420 暫行板規 哭了!!!",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795780542.A.ECA.html",
+   "aid": "M.1795780542.A.ECA",
    "source": "llm"
   },
   {
