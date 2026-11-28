@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795840579,
- "generated_iso": "2026-11-28T12:36:19+08:00",
+ "generated_at": 1795842382,
+ "generated_iso": "2026-11-28T13:06:22+08:00",
  "demo": false,
- "count": 182,
+ "count": 183,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -789,6 +789,20 @@
    "title": "[公告] qq950078 2-2",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795788640.A.635.html",
    "aid": "M.1795788640.A.635",
+   "source": "llm"
+  },
+  {
+   "user": "Borges",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795837520,
+   "end": 1796442320,
+   "start_iso": "2026-11-28T11:45:20+08:00",
+   "end_iso": "2026-12-05T11:45:20+08:00",
+   "reason": "2-2",
+   "title": "[公告] Borges 2-2 只剩水桶可以去",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795837520.A.648.html",
+   "aid": "M.1795837520.A.648",
    "source": "llm"
   },
   {
