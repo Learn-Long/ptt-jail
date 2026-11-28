@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795854984,
- "generated_iso": "2026-11-28T16:36:24+08:00",
+ "generated_at": 1795856785,
+ "generated_iso": "2026-11-28T17:06:25+08:00",
  "demo": false,
- "count": 182,
+ "count": 181,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "DarkKnight",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795250957,
-   "end": 1795855757,
-   "start_iso": "2026-11-21T16:49:17+08:00",
-   "end_iso": "2026-11-28T16:49:17+08:00",
-   "reason": "2-2",
-   "title": "[公告] DarkKnight 2-2 國昌體不可取",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795250957.A.F3F.html",
-   "aid": "M.1795250957.A.F3F",
-   "source": "llm"
-  },
   {
    "user": "kaminari22tw",
    "days": 28,
@@ -2557,6 +2543,16 @@
   }
  ],
  "released": [
+  {
+   "user": "DarkKnight",
+   "days": 7,
+   "released_at": 1795855757,
+   "released_iso": "2026-11-28T16:49:17+08:00",
+   "reason": "2-2",
+   "title": "[公告] DarkKnight 2-2 國昌體不可取",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795250957.A.F3F.html",
+   "aid": "M.1795250957.A.F3F"
+  },
   {
    "user": "cheer67",
    "days": 28,
