@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795876597,
- "generated_iso": "2026-11-28T22:36:37+08:00",
+ "generated_at": 1795878392,
+ "generated_iso": "2026-11-28T23:06:32+08:00",
  "demo": false,
- "count": 185,
+ "count": 184,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "THE7088",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795273592,
-   "end": 1795878392,
-   "start_iso": "2026-11-21T23:06:32+08:00",
-   "end_iso": "2026-11-28T23:06:32+08:00",
-   "reason": "2-1",
-   "title": "[公告] THE7088 2-1 謝謝你的提醒 大家不要被詐",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795273592.A.A3F.html",
-   "aid": "M.1795273592.A.A3F",
-   "source": "llm"
-  },
   {
    "user": "asked",
    "days": 28,
@@ -2599,6 +2585,16 @@
   }
  ],
  "released": [
+  {
+   "user": "THE7088",
+   "days": 7,
+   "released_at": 1795878392,
+   "released_iso": "2026-11-28T23:06:32+08:00",
+   "reason": "2-1",
+   "title": "[公告] THE7088 2-1 謝謝你的提醒 大家不要被詐",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795273592.A.A3F.html",
+   "aid": "M.1795273592.A.A3F"
+  },
   {
    "user": "penguin7788",
    "days": 7,
