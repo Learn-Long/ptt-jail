@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795851385,
- "generated_iso": "2026-11-28T15:36:25+08:00",
+ "generated_at": 1795853184,
+ "generated_iso": "2026-11-28T16:06:24+08:00",
  "demo": false,
- "count": 183,
+ "count": 182,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "cheer67",
-   "days": 28,
-   "lifetime": false,
-   "start": 1793433776,
-   "end": 1795852976,
-   "start_iso": "2026-10-31T16:02:56+08:00",
-   "end_iso": "2026-11-28T16:02:56+08:00",
-   "reason": "",
-   "title": "[公告] cheer67 暫行板規 嘻嘻 嘻嘻 嘻嘻",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793433776.A.64C.html",
-   "aid": "M.1793433776.A.64C",
-   "source": "llm"
-  },
   {
    "user": "DarkKnight",
    "days": 7,
@@ -2571,6 +2557,16 @@
   }
  ],
  "released": [
+  {
+   "user": "cheer67",
+   "days": 28,
+   "released_at": 1795852976,
+   "released_iso": "2026-11-28T16:02:56+08:00",
+   "reason": "",
+   "title": "[公告] cheer67 暫行板規 嘻嘻 嘻嘻 嘻嘻",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793433776.A.64C.html",
+   "aid": "M.1793433776.A.64C"
+  },
   {
    "user": "Taiwanese",
    "days": 14,
