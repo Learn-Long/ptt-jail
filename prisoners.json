@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795831576,
- "generated_iso": "2026-11-28T10:06:16+08:00",
+ "generated_at": 1795833385,
+ "generated_iso": "2026-11-28T10:36:25+08:00",
  "demo": false,
- "count": 181,
+ "count": 182,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -1195,6 +1195,20 @@
    "title": "[公告] quiet93 暫行板規 蔣萬安活動辦好辦滿",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795794909.A.9FF.html",
    "aid": "M.1795794909.A.9FF",
+   "source": "llm"
+  },
+  {
+   "user": "O300",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795825949,
+   "end": 1797035549,
+   "start_iso": "2026-11-28T08:32:29+08:00",
+   "end_iso": "2026-12-12T08:32:29+08:00",
+   "reason": "1",
+   "title": "[公告] O300 暫行板規 我被影響了",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795825949.A.C64.html",
+   "aid": "M.1795825949.A.C64",
    "source": "llm"
   },
   {
