@@ -1,7 +1,7 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795845983,
- "generated_iso": "2026-11-28T14:06:23+08:00",
+ "generated_at": 1795847785,
+ "generated_iso": "2026-11-28T14:36:25+08:00",
  "demo": false,
  "count": 183,
  "lifers": 5,
@@ -2700,26 +2700,6 @@
    "title": "[公告] cwchang2100 2-5-l",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795008750.A.DD1.html",
    "aid": "M.1795008750.A.DD1"
-  },
-  {
-   "user": "CenaWang",
-   "days": 14,
-   "released_at": 1795588371,
-   "released_iso": "2026-11-25T14:32:51+08:00",
-   "reason": "",
-   "title": "[公告] CenaWang 暫行板規 本省雜草的票不要了",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794378771.A.80F.html",
-   "aid": "M.1794378771.A.80F"
-  },
-  {
-   "user": "letmesee3085",
-   "days": 14,
-   "released_at": 1795587093,
-   "released_iso": "2026-11-25T14:11:33+08:00",
-   "reason": "",
-   "title": "[公告] letmesee3085 暫行板規 light到水桶裡",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794377493.A.D85.html",
-   "aid": "M.1794377493.A.D85"
   }
  ]
 }
