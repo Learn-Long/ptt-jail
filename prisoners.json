@@ -1,26 +1,12 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795871184,
- "generated_iso": "2026-11-28T21:06:24+08:00",
+ "generated_at": 1795872989,
+ "generated_iso": "2026-11-28T21:36:29+08:00",
  "demo": false,
- "count": 180,
+ "count": 179,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
-  {
-   "user": "penguin7788",
-   "days": 7,
-   "lifetime": false,
-   "start": 1795267712,
-   "end": 1795872512,
-   "start_iso": "2026-11-21T21:28:32+08:00",
-   "end_iso": "2026-11-28T21:28:32+08:00",
-   "reason": "2-5-l",
-   "title": "[公告] penguin7788 2-5-l",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795267712.A.726.html",
-   "aid": "M.1795267712.A.726",
-   "source": "llm"
-  },
   {
    "user": "THE7088",
    "days": 7,
@@ -2530,6 +2516,16 @@
  ],
  "released": [
   {
+   "user": "penguin7788",
+   "days": 7,
+   "released_at": 1795872512,
+   "released_iso": "2026-11-28T21:28:32+08:00",
+   "reason": "2-5-l",
+   "title": "[公告] penguin7788 2-5-l",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795267712.A.726.html",
+   "aid": "M.1795267712.A.726"
+  },
+  {
    "user": "kaminari22tw",
    "days": 28,
    "released_at": 1795858806,
@@ -2678,16 +2674,6 @@
    "title": "[公告] aass5566 2-5-e 一直洗進水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795050192.A.DD7.html",
    "aid": "M.1795050192.A.DD7"
-  },
-  {
-   "user": "cwchang2100",
-   "days": 7,
-   "released_at": 1795613550,
-   "released_iso": "2026-11-25T21:32:30+08:00",
-   "reason": "2-5-l",
-   "title": "[公告] cwchang2100 2-5-l",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795008750.A.DD1.html",
-   "aid": "M.1795008750.A.DD1"
   }
  ]
 }
