@@ -1,9 +1,9 @@
 {
  "board": "HatePolitics",
- "generated_at": 1795872989,
- "generated_iso": "2026-11-28T21:36:29+08:00",
+ "generated_at": 1795874801,
+ "generated_iso": "2026-11-28T22:06:41+08:00",
  "demo": false,
- "count": 179,
+ "count": 185,
  "lifers": 5,
  "review_count": 4,
  "prisoners": [
@@ -764,6 +764,62 @@
    "source": "llm"
   },
   {
+   "user": "Saitoasuka11",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795867465,
+   "end": 1796472265,
+   "start_iso": "2026-11-28T20:04:25+08:00",
+   "end_iso": "2026-12-05T20:04:25+08:00",
+   "reason": "2-2",
+   "title": "[公告] Saitoasuka11 2-1 水桶也沒有輸",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795867465.A.2E9.html",
+   "aid": "M.1795867465.A.2E9",
+   "source": "llm"
+  },
+  {
+   "user": "e104401e",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795867657,
+   "end": 1796472457,
+   "start_iso": "2026-11-28T20:07:37+08:00",
+   "end_iso": "2026-12-05T20:07:37+08:00",
+   "reason": "2-2",
+   "title": "[公告] e104401e 2-2 可能你在水桶聽不見吧",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795867657.A.5BE.html",
+   "aid": "M.1795867657.A.5BE",
+   "source": "llm"
+  },
+  {
+   "user": "joke0709",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795868470,
+   "end": 1796473270,
+   "start_iso": "2026-11-28T20:21:10+08:00",
+   "end_iso": "2026-12-05T20:21:10+08:00",
+   "reason": "2-1",
+   "title": "[公告] joke0709 2-1 幻想你的分類",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795868470.A.D51.html",
+   "aid": "M.1795868470.A.D51",
+   "source": "llm"
+  },
+  {
+   "user": "bogy26",
+   "days": 7,
+   "lifetime": false,
+   "start": 1795873173,
+   "end": 1796477973,
+   "start_iso": "2026-11-28T21:39:33+08:00",
+   "end_iso": "2026-12-05T21:39:33+08:00",
+   "reason": "2-2",
+   "title": "[公告] bogy26 2-2 水桶的水滾了",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795873173.A.F1D.html",
+   "aid": "M.1795873173.A.F1D",
+   "source": "llm"
+  },
+  {
    "user": "DJSHD2",
    "days": 14,
    "lifetime": false,
@@ -1184,6 +1240,20 @@
    "source": "llm"
   },
   {
+   "user": "undeadmask",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795871493,
+   "end": 1797081093,
+   "start_iso": "2026-11-28T21:11:33+08:00",
+   "end_iso": "2026-12-12T21:11:33+08:00",
+   "reason": "",
+   "title": "[公告] undeadmask 暫行板規 選完了還洗圖?",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795871493.A.81B.html",
+   "aid": "M.1795871493.A.81B",
+   "source": "llm"
+  },
+  {
    "user": "rodion",
    "days": 35,
    "lifetime": false,
@@ -1195,6 +1265,20 @@
    "title": "[公告] rodion 3-1 小組裁定。",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1794057607.A.7C7.html",
    "aid": "M.1794057607.A.7C7",
+   "source": "llm"
+  },
+  {
+   "user": "weli23119",
+   "days": 14,
+   "lifetime": false,
+   "start": 1795873740,
+   "end": 1797083340,
+   "start_iso": "2026-11-28T21:49:00+08:00",
+   "end_iso": "2026-12-12T21:49:00+08:00",
+   "reason": "2-9",
+   "title": "[公告] weli23119 2-9 你也守住了你的水桶",
+   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795873740.A.0ED.html",
+   "aid": "M.1795873740.A.0ED",
    "source": "llm"
   },
   {
@@ -2594,16 +2678,6 @@
    "title": "[公告] wer11 2-1 刪刪哥刪到水桶",
    "url": "https://www.ptt.cc/bbs/HatePolitics/M.1793347404.A.6F0.html",
    "aid": "M.1793347404.A.6F0"
-  },
-  {
-   "user": "weli23119",
-   "days": 7,
-   "released_at": 1795701768,
-   "released_iso": "2026-11-26T22:02:48+08:00",
-   "reason": "2-9",
-   "title": "[公告] weli23119 2-9 辛苦了發那麼多文!!!",
-   "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795096968.A.1B0.html",
-   "aid": "M.1795096968.A.1B0"
   },
   {
    "user": "h5t6566556",
